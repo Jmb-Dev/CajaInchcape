@@ -1,0 +1,26 @@
+﻿<Window x:Class="CajaIndigo.ResumenViasPago"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ResumenViasPago" Height="323" Width="1366" Closed="Window_Closed">
+    <Grid>
+        <DataGrid AutoGenerateColumns="False" Height="203" HorizontalAlignment="Left" Margin="25,27,0,0" Name="DGResumenViasPago" VerticalAlignment="Top" Width="1322"  ScrollViewer.CanContentScroll="True" ScrollViewer.HorizontalScrollBarVisibility="Visible" ScrollViewer.VerticalScrollBarVisibility="Visible" DataContext="{Binding}">
+            <DataGrid.Columns>
+                <DataGridTextColumn  Width="100" Header="Monto" IsReadOnly="True" Binding="{Binding Path=MONTO}" ></DataGridTextColumn >
+                <DataGridTextColumn  Width="100" Header="Banco" IsReadOnly="True" Binding="{Binding Path=BANCO}" ></DataGridTextColumn >
+                <DataGridTextColumn  Width="100" Header="Emisor" IsReadOnly="True" Binding="{Binding Path=EMISOR}" ></DataGridTextColumn >
+                <DataGridTextColumn  Width="100" Header="N°Cheque" IsReadOnly="false" Binding="{Binding Path=NUM_CHEQUE}" ></DataGridTextColumn >
+                <DataGridTextColumn  Width="100" Header="Cod.Autorizacion" IsReadOnly="False" Binding="{Binding Path=COD_AUTORIZACION}" ></DataGridTextColumn >
+                <DataGridTextColumn  Width="100" Header="N°Cuotas" IsReadOnly="True" Binding="{Binding Path=NUM_CUOTAS}" ></DataGridTextColumn >
+                <DataGridTextColumn  Width="100" Header="N°.Cuenta" IsReadOnly="True" Binding="{Binding Path=NUM_CUENTA}" ></DataGridTextColumn >
+                <DataGridTextColumn  Width="100" Header="N°Tarjeta" IsReadOnly="True" Binding="{Binding Path=NUM_TARJETA}" ></DataGridTextColumn >
+                <DataGridTextColumn  Width="100" Header="N°ValeVista" IsReadOnly="True" Binding="{Binding Path=NUM_VALE_VISTA}" ></DataGridTextColumn >
+                <DataGridTextColumn  Width="100" Header="Patente" IsReadOnly="True" Binding="{Binding Path=PATENTE}" ></DataGridTextColumn >
+                <DataGridTextColumn  Width="100" Header="Fec.Emisión" IsReadOnly="False" Binding="{Binding Path=FECHA_EMISION}" ></DataGridTextColumn >
+                <DataGridTextColumn  Width="100" Header="Fec.Venci" IsReadOnly="false" Binding="{Binding Path=FECHA_VENC}" ></DataGridTextColumn >
+                <DataGridTextColumn  Width="100" Header="Nombre.Compania" IsReadOnly="True" Binding="{Binding Path=FormaPago}" ></DataGridTextColumn >
+                <DataGridTextColumn  Width="100" Header="Nombre.Girador" IsReadOnly="True" Binding="{Binding Path=NOMBRE_GIRADOR}" ></DataGridTextColumn >
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="button" Content="Aceptar" HorizontalAlignment="Left" Margin="1237,244,0,0" VerticalAlignment="Top" Width="107" Height="31" Click="button_Click"/>
+    </Grid>
+</Window>

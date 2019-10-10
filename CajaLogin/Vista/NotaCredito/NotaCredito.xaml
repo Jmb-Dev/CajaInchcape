@@ -1,0 +1,602 @@
+﻿<Window x:Class="CajaIndigo.Vista.NotaCredito.NotaCredito"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+           Title="Caja Inchcape" Height="762"  FontSize="12" FontWeight="Normal" VerticalAlignment="Top" Top="0" Left="0" Width="1400" BorderThickness="1" >
+    <Window.Resources>
+        <Style x:Key="cancelar" TargetType="TextBlock">
+            <Setter Property="FrameworkElement.Margin" Value="2,0" />
+        </Style>
+    </Window.Resources>
+    <ScrollViewer Background="#FFE6EAED">
+        <Grid   Height="687" Width="1350" Name="CajaGrid" Margin="2,0,0,0" HorizontalAlignment="Center" Background="{x:Null}" AllowDrop="True">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="10*" />
+                <ColumnDefinition Width="0*" />
+                <ColumnDefinition Width="940" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="7*" />
+                <RowDefinition Height="10*" />
+                <RowDefinition Height="9*" />
+                <RowDefinition Height="733*" />
+            </Grid.RowDefinitions>
+            <Label Content="Caja" Height="30" Width="48" HorizontalAlignment="Left" Name="label11" VerticalAlignment="Top" FontFamily="Verdana" FontSize="16" FontWeight="SemiBold" VerticalContentAlignment="Center" Grid.RowSpan="4" Foreground="#FF3977AB" FontStyle="Italic" Margin="18,0,0,0" />
+            <Label Height="30" HorizontalAlignment="Left" Name="textBlock6" Content="Cobranza2"  VerticalAlignment="Top" Width="113" FontFamily="Tahoma" FontSize="16" FontWeight="SemiBold" VerticalContentAlignment="Center" Grid.RowSpan="4" Foreground="#FF3977AB" FontStyle="Italic" Margin="71,0,0,0" />
+            <Label Content="Usuario" Height="30" Width="81" HorizontalAlignment="Left" Name="label12" VerticalAlignment="Top" FontFamily="Verdana" FontSize="16" FontWeight="SemiBold" VerticalContentAlignment="Center" Grid.RowSpan="4" Foreground="#FF3977AB" FontStyle="Italic" Margin="190,0,0,0" />
+            <Label Height="30" HorizontalAlignment="Left" Margin="232,0,0,0" Name="textBlock7" Content="Rafael Rodríguez   " Visibility="Collapsed" VerticalAlignment="Top" Width="165" FontFamily="Tahoma" FontSize="16" FontWeight="SemiBold" VerticalContentAlignment="Center" Grid.RowSpan="4" Grid.Column="2" Foreground="#FF3977AB" FontStyle="Italic" />
+            <Label Height="30" HorizontalAlignment="Left" Name="textBlock9" Content="Rafael Rodríguez   " VerticalAlignment="Top" Width="220" FontFamily="Tahoma" FontSize="16" FontWeight="SemiBold" VerticalContentAlignment="Center" Grid.RowSpan="4" Foreground="#FF3977AB" FontStyle="Italic" Grid.ColumnSpan="3" Margin="273,0,0,0" />
+            <Label Content="Sucursal" Height="30" Width="87"  HorizontalAlignment="Left" Margin="85,0,0,0" Name="label13" VerticalAlignment="Top" FontFamily="Verdana" FontSize="16" FontWeight="SemiBold" VerticalContentAlignment="Center" Grid.RowSpan="4" Grid.Column="2" Foreground="#FF3977AB" FontStyle="Italic" />
+            <Label Height="30" HorizontalAlignment="Right" Margin="0,0,361,0" Name="textBlock8" Content="Vicuña McKenna" VerticalAlignment="Top" Width="400" FontFamily="Tahoma" FontSize="16" FontWeight="SemiBold" VerticalContentAlignment="Center" Grid.RowSpan="4" Grid.Column="2" Foreground="#FF3977AB" FontStyle="Italic" />
+            <Label Height="30" HorizontalAlignment="Right" Name="lblMonto" Visibility="Collapsed" VerticalAlignment="Top" Width="200"  VerticalContentAlignment="Center" Grid.RowSpan="4" Grid.Column="2" Margin="0,0,10,0" />
+            <ComboBox Height="30" HorizontalAlignment="Right" Name="lblMoneda" Visibility="Collapsed" VerticalAlignment="Top" Width="200"  VerticalContentAlignment="Center" Grid.RowSpan="4" Grid.Column="2" Margin="0,0,10,0" />
+            <Label Height="30" HorizontalAlignment="Right" Name="lblPais" Visibility="Collapsed" VerticalAlignment="Top" Width="200"  VerticalContentAlignment="Center" Grid.RowSpan="4" Grid.Column="2" Margin="0,0,10,0" />
+            <Label Height="30" HorizontalAlignment="Right" Name="lblPassword" Visibility="Collapsed" VerticalAlignment="Top" Width="200"  VerticalContentAlignment="Center" Grid.RowSpan="4" Grid.Column="2" Margin="0,0,10,0" />
+            <Label Height="30" HorizontalAlignment="Right" Name="lblSociedad" Visibility="Collapsed" VerticalAlignment="Top" Width="200"  VerticalContentAlignment="Center" Grid.RowSpan="4" Grid.Column="2" Margin="0,0,10,0" />
+            <ToolBarTray HorizontalAlignment="Left" Height="27" Margin="10,8,0,0" VerticalAlignment="Top" Width="1107" Grid.Row="3" Grid.ColumnSpan="3">
+                <ToolBarTray.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Gray" Offset="0" />
+                        <GradientStop Color="#00E6EAED" Offset="1" />
+                        <GradientStop Color="#00F2F3F5" Offset="1" />
+                        <GradientStop Color="#0EEAECED" Offset="1" />
+                    </LinearGradientBrush>
+                </ToolBarTray.Background>
+                <ToolBar VerticalAlignment="Top" HorizontalAlignment="Left" Height="27" Band="0" BandIndex="0">
+                    <Button Content="Inicio" Height="22" VerticalAlignment="Top" Width="40" Name="Inicio" Foreground="#FF3977AB" FontWeight="SemiBold" FontFamily="Arial" FontSize="11">
+                        <Button.Background>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="Gray" Offset="0" />
+                                <GradientStop Color="#00E6EAED" Offset="1" />
+                                <GradientStop Color="#00F2F3F5" Offset="1" />
+                            </LinearGradientBrush>
+                        </Button.Background>
+                    </Button>
+                    <Separator Height="27"></Separator>
+                    <Button Content="Pago de documentos" Name="PagoDocumentos"  Height="22" VerticalAlignment="Top" Width="120" Foreground="#FF3977AB" FontWeight="SemiBold" FontFamily="Arial" FontSize="11" Click="PagoDocumentos_Click">
+                        <Button.Background>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="Gray" Offset="0" />
+                                <GradientStop Color="#00E6EAED" Offset="1" />
+                                <GradientStop Color="#00F2F3F5" Offset="1" />
+                            </LinearGradientBrush>
+                        </Button.Background>
+                    </Button>
+                    <Separator Height="27"></Separator>
+                    <Button Content="Emision de NC" Name="EmisionNC" Height="22" VerticalAlignment="Top"  Width="90"  Foreground="#FF3977AB" FontWeight="SemiBold" FontFamily="Arial" FontSize="11" Click="EmisionNC_Click">
+                        <Button.Background>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="Gray" Offset="0" />
+                                <GradientStop Color="#00E6EAED" Offset="1" />
+                                <GradientStop Color="#00F2F3F5" Offset="1" />
+                            </LinearGradientBrush>
+                        </Button.Background>
+                    </Button>
+                    <Separator Height="27"></Separator>
+                    <Button Content="Anulación" Name="Anulacion" Height="22" VerticalAlignment="Top"  Width="80" Foreground="#FF3977AB" FontWeight="SemiBold" FontFamily="Arial" FontSize="11" Click="Anulacion_Click">
+                        <Button.Background>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="Gray" Offset="0" />
+                                <GradientStop Color="#00E6EAED" Offset="1" />
+                                <GradientStop Color="#00F2F3F5" Offset="1" />
+                            </LinearGradientBrush>
+                        </Button.Background>
+                    </Button>
+                    <Separator Height="27"></Separator>
+                    <Button Content="Reimpresión" Name="Reimpresion" Height="22" VerticalAlignment="Top" Width="80" Foreground="#FF3977AB" FontWeight="SemiBold" FontFamily="Arial" FontSize="11" Click="Reimpresion_Click">
+                        <Button.Background>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="Gray" Offset="0" />
+                                <GradientStop Color="#00E6EAED" Offset="1" />
+                                <GradientStop Color="#00F2F3F5" Offset="1" />
+                            </LinearGradientBrush>
+                        </Button.Background>
+                    </Button>
+                    <Separator Height="27"></Separator>
+                    <Button Content="Recaudacion Vehiculo" Name="RecaudacionVeh" Height="22" VerticalAlignment="Top" Width="130"  Foreground="#FF3977AB" FontWeight="SemiBold" FontFamily="Arial" FontSize="11" Click="RecaudacionVeh_Click">
+                        <Button.Background>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="Gray" Offset="0" />
+                                <GradientStop Color="#00E6EAED" Offset="1" />
+                                <GradientStop Color="#00F2F3F5" Offset="1" />
+                            </LinearGradientBrush>
+                        </Button.Background>
+                    </Button>
+                    <Separator Height="27"></Separator>
+                    <Button Content="Cierre de caja" Name="CierreCaja" Height="22" VerticalAlignment="Top"  Width="80" Foreground="#FF3977AB" FontWeight="SemiBold" FontFamily="Arial" FontSize="11" Click="CierreCaja_Click">
+                        <Button.Background>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="Gray" Offset="0" />
+                                <GradientStop Color="#00E6EAED" Offset="1" />
+                                <GradientStop Color="#00F2F3F5" Offset="1" />
+                            </LinearGradientBrush>
+                        </Button.Background>
+                    </Button>
+                    <Button Content="Reportes caja" Name="ReportesCaja" Height="22" VerticalAlignment="Top"  Width="80"  Foreground="#FF3977AB" FontWeight="SemiBold" FontFamily="Arial" FontSize="11" IsEnabled="true" Click="ReportesCaja_Click">
+                        <Button.Background>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="Gray" Offset="0" />
+                                <GradientStop Color="#00E6EAED" Offset="1" />
+                                <GradientStop Color="#00F2F3F5" Offset="1" />
+                            </LinearGradientBrush>
+                        </Button.Background>
+                    </Button>
+                    <Button Content="Bloquear caja" Name="BloquearCaja" Height="22" VerticalAlignment="Top"  Width="90" Foreground="Red" FontWeight="SemiBold" FontFamily="Arial" FontSize="11" Click="BloquearCaja_Click">
+                        <Button.Background>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="Gray" Offset="0" />
+                                <GradientStop Color="#00E6EAED" Offset="1" />
+                                <GradientStop Color="#00F2F3F5" Offset="1" />
+                            </LinearGradientBrush>
+                        </Button.Background>
+                    </Button>
+                </ToolBar>
+            </ToolBarTray>
+            <GroupBox Header="Monitor" Visibility="Visible" HorizontalAlignment="Left" Margin="309,37,0,0" Name="GBMonitor" Width="503" Height="182"  Grid.Row="3" Grid.Column="2" VerticalAlignment="Top" FontWeight="Normal" Foreground="#FF3977AB">
+                <Grid Name="MonitorGrid" Background="White" Margin="5,5,0,0" Height="158" Width="474">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="60*" />
+                        <ColumnDefinition Width="314*" />
+                        <ColumnDefinition Width="43" />
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="74*" />
+                        <RowDefinition Height="103*" />
+                    </Grid.RowDefinitions>
+                    <DataGrid AutoGenerateColumns="False" Height="112" HorizontalAlignment="Left" Margin="6,38,0,0" Name="DGMonitor" AlternatingRowBackground="LightSalmon" VerticalAlignment="Top" Width="462" Grid.RowSpan="2" Grid.ColumnSpan="3">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn  Width="80" Header="N° documento" IsReadOnly="True" Binding="{Binding Path=NDOCTO}" ></DataGridTextColumn >
+                            <DataGridTextColumn  Width="80" Header="Sociedad" IsReadOnly="True" Binding="{Binding Path=SOCIEDAD}" ></DataGridTextColumn >
+                            <DataGridTextColumn  Width="80" Header="Tipo documento" IsReadOnly="True" Binding="{Binding Path=ICONO}" ></DataGridTextColumn >
+                            <DataGridTextColumn  Width="80" Header="N° RUT" IsReadOnly="True" Binding="{Binding Path=RUTCLI}" ></DataGridTextColumn >
+                            <DataGridTextColumn  Width="80" Header="Cliente" IsReadOnly="True" Binding="{Binding Path=NOMCLI}" ></DataGridTextColumn >
+                        </DataGrid.Columns>
+                    </DataGrid>
+                    <Button Height="35" Width="35" HorizontalAlignment="Left" Margin="10,2,0,0" Name="btnRefresh" VerticalAlignment="Top">
+                        <Button.Background>
+                            <ImageBrush ImageSource="/CajaIndigo;component/Images/UpdateSoftware02.png" Stretch="Uniform" TileMode="None" />
+                        </Button.Background>
+                    </Button>
+                    <Button Content="Seleccionar registro" Grid.Column="1" Height="20" HorizontalAlignment="Left" Margin="24,6,0,0" Name="btnPagoMonitor" VerticalAlignment="Top" Width="158"  />
+                    <CheckBox Content="Activar monitor" Grid.Column="1" Height="18" HorizontalAlignment="Left" Margin="231,9,0,0" Name="chkMonitor" VerticalAlignment="Top" Width="131" ClickMode="Press"/>
+                </Grid>
+            </GroupBox>
+            <GroupBox Header="Inicio" Visibility="Collapsed" Height="182" Width="600" Foreground="#FF3977AB" HorizontalAlignment="Left" Margin="10,38,0,0" Name="GBInicio" VerticalAlignment="Top"  Grid.Row="3" Grid.ColumnSpan="3">
+                <Grid Height="148" Width="565" Margin="5,10,0,0" Name="InicioGrid">
+                    <!--<Image Height="120" HorizontalAlignment="Left" Margin="2,2,0,0" Name="image1" Stretch="UniformToFill" VerticalAlignment="Top" Width="473" Source="/CajaLogin;component/Images/indumotora%20%20Inicio.jpg" />-->
+                </Grid>
+            </GroupBox>
+            <GroupBox Header="Emisión de Notas de créditos" Height="182"  Width="600" Visibility="Visible" Foreground="#FF3977AB" HorizontalAlignment="Left" Margin="10,38,0,0" Name="GBEmisionNC" VerticalAlignment="Top" Grid.Row="3" Grid.ColumnSpan="3">
+                <Grid Height="148" Width="565" Margin="5,10,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Background="White" Name="EmisionNCGrid">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="153*" />
+                        <ColumnDefinition Width="277*" />
+                    </Grid.ColumnDefinitions>
+                    <RadioButton Content="RUT" Height="20" HorizontalAlignment="Left" Margin="25,33,0,0" Name="RBRutNC" Checked="RBRutNC_Checked" VerticalAlignment="Top" FontSize="10" FontFamily="Arial" />
+                    <RadioButton Content="Documento" Height="20" HorizontalAlignment="Right" Margin="0,33,61,0" Name="RBDocNC" Checked="RBDocNC_Checked" VerticalAlignment="Top" FontSize="10" FontFamily="Arial" />
+                    <Button Content="Buscar" Height="20" HorizontalAlignment="Left" Margin="16,51,0,0" Name="btnBuscarNC" VerticalAlignment="Top" Width="75" FontFamily="Arial" FontSize="10" Click="btnBuscarNC_Click" Grid.Column="1" />
+                    <TextBox Height="20" HorizontalAlignment="Left" Margin="26,51,0,0" Name="txtRUTNC" VerticalAlignment="Top" Width="140" FontFamily="Arial" FontSize="10" Grid.ColumnSpan="2" />
+                    <TextBox Height="20" HorizontalAlignment="Left" Margin="26,51,0,0" Name="txtComprNC" VerticalAlignment="Top" Width="140" FontFamily="Arial" FontSize="10" Grid.ColumnSpan="2" />
+                    <Button Content="Emitir NC" Height="23" HorizontalAlignment="Left" Margin="173,119,0,0" Name="btnEmitirNC" VerticalAlignment="Top" Width="107" FontFamily="Arial" Click="btnEmitirNC_Click" IsEnabled="False" FontSize="14" FontStretch="SemiExpanded" Grid.Column="1" />
+                    <Label Content="Defina el método de búsqueda" Height="22" HorizontalAlignment="Left" Margin="19,6,0,0" Name="label47" VerticalAlignment="Top" FontFamily="Arial" Grid.ColumnSpan="2" />
+                    <Label Content="Total efectivo" Height="28" HorizontalAlignment="Left" Margin="25,97,0,0" Name="label41"  VerticalAlignment="Top" Width="85" FontFamily="Arial" Visibility="Collapsed" />
+                    <TextBox Height="28" HorizontalAlignment="Left" Margin="116,97,0,0" Name="txtTotEfect" VerticalAlignment="Top" Width="156" Grid.ColumnSpan="2" IsReadOnly="True" FontFamily="Arial" Visibility="Collapsed" />
+                    <CheckBox Content="Emitir Notas de crédito tributarias (sin devoluciones)" Grid.Column="1" Height="16" HorizontalAlignment="Left" Margin="15,33,0,0" Name="chkNCTribut" VerticalAlignment="Top" Width="308" FontFamily="Arial" />
+                </Grid>
+            </GroupBox>
+            <GroupBox Header="Anulación" Height="182"  Width="595" Visibility="Collapsed" Foreground="#FF3977AB" HorizontalAlignment="Left" Margin="10,38,0,0" Name="GBAnulacion" VerticalAlignment="Top" Grid.Row="3" Grid.ColumnSpan="3">
+
+            </GroupBox>
+            <GroupBox Header="Detalle documentos" Grid.Row="3"  Height="370" Visibility="Collapsed" HorizontalAlignment="Left" Margin="10,233,0,0" Name="GBDetalleDocs" VerticalAlignment="Top" Width="1300" Foreground="#FF3977AB" Grid.ColumnSpan="3">
+                <Grid Height="329" Width="1280">
+                    <DataGrid AutoGenerateColumns="True" Height="142" HorizontalAlignment="Left" Margin="5,181,0,0" Name="DGDocDet" FontSize="10" VerticalAlignment="Top" Width="1260" >
+                        <DataGrid.Columns>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                    <TextBox Height="22" HorizontalAlignment="Left" Margin="118,18,0,0" Name="textBox2" VerticalAlignment="Top" Width="109" FontFamily="Arial" FontSize="10" Visibility="Collapsed" />
+                    <TextBox Height="22" HorizontalAlignment="Left" Margin="361,18,0,0" Name="textBox3" VerticalAlignment="Top" Width="41" FontFamily="Arial" FontSize="10" Visibility="Collapsed" />
+                    <TextBox Height="22" HorizontalAlignment="Left" Margin="568,18,0,0" Name="textBox4" VerticalAlignment="Top" Width="66" FontFamily="Arial" FontSize="10" Visibility="Collapsed" />
+                    <TextBox Height="22" HorizontalAlignment="Left" Margin="118,46,0,0" Name="textBox5" VerticalAlignment="Top" Width="109" FontFamily="Arial" FontSize="10" Visibility="Collapsed" />
+                    <TextBox Height="22" HorizontalAlignment="Right" Margin="0,47,409,0" Name="textBox6" VerticalAlignment="Top" Width="109" FontFamily="Arial" FontSize="10" Visibility="Collapsed" />
+                    <TextBox Height="21" HorizontalAlignment="Left" Margin="568,47,0,0" Name="textBox7" VerticalAlignment="Top" Width="22" FontFamily="Arial" FontSize="10" Visibility="Collapsed" />
+                    <TextBox Height="22" HorizontalAlignment="Left" Margin="118,76,0,0" Name="textBox8" VerticalAlignment="Top" Width="109" FontFamily="Arial" FontSize="10" Visibility="Collapsed" />
+                    <TextBox Height="22" HorizontalAlignment="Left" Margin="361,76,0,0" Name="textBox9" VerticalAlignment="Top" Width="109" FontFamily="Arial" FontSize="10" Visibility="Collapsed" />
+                    <TextBox Height="22" HorizontalAlignment="Left" Margin="118,104,0,0" Name="textBox10" VerticalAlignment="Top" Width="30" FontFamily="Arial" FontSize="10" Visibility="Collapsed" />
+                    <TextBox Height="22" HorizontalAlignment="Left" Margin="568,104,0,0" Name="textBox11" VerticalAlignment="Top" Width="109" FontFamily="Arial" FontSize="10" Visibility="Collapsed" />
+                    <Label Content="N° documento" Height="22" HorizontalAlignment="Left" Margin="19,18,0,0" Name="label14" VerticalAlignment="Top" FontFamily="Arial" FontSize="10" Visibility="Collapsed" />
+                    <Label Content="Sociedad" FontFamily="Arial" FontSize="10" Height="22" HorizontalAlignment="Left" Margin="252,18,0,0" Name="label15" VerticalAlignment="Top" Visibility="Collapsed" />
+                    <Label Content="Ejercicio   " FontFamily="Arial" FontSize="10" Height="22" HorizontalAlignment="Left" Margin="489,18,0,0" Name="label16" VerticalAlignment="Top" Visibility="Collapsed" />
+                    <Label Content="Fecha documento" FontFamily="Arial" FontSize="10" Height="22" HorizontalAlignment="Left" Margin="18,43,0,0" Name="label17" VerticalAlignment="Top" Visibility="Collapsed" />
+                    <Label Content="Fecha contabilización"  FontFamily="Arial" FontSize="10" Height="22" HorizontalAlignment="Left" Margin="252,46,0,0" Name="label18" VerticalAlignment="Top" Visibility="Collapsed" />
+                    <Label Content="Período" FontFamily="Arial" FontSize="10" Height="22" HorizontalAlignment="Left" Margin="489,48,0,0" Name="label19" VerticalAlignment="Top" Visibility="Collapsed" />
+                    <Label Content="Referencia" FontFamily="Arial" FontSize="10" Height="22" HorizontalAlignment="Left" Margin="19,76,0,0" Name="label20" VerticalAlignment="Top" Visibility="Collapsed" />
+                    <Label Content="N° general" FontFamily="Arial" FontSize="10" Height="22" HorizontalAlignment="Left" Margin="252,76,0,0" Name="label21" VerticalAlignment="Top" Visibility="Collapsed" />
+                    <Label Content="Moneda" FontFamily="Arial" FontSize="10" Height="22" HorizontalAlignment="Left" Margin="19,104,0,0" Name="label22" VerticalAlignment="Top" Visibility="Collapsed" />
+                    <CheckBox Content="Existen textos" Height="18" HorizontalAlignment="Left" Margin="259,108,0,0" Name="checkBox1" VerticalAlignment="Top" Width="117" FlowDirection="RightToLeft" FontSize="10" FontFamily="Arial" VerticalContentAlignment="Center" HorizontalContentAlignment="Right" Visibility="Collapsed" />
+                    <Label Content="Grupo ledgers" FontFamily="Arial" FontSize="10" Height="22" HorizontalAlignment="Left" Margin="489,104,0,0" Name="label23" VerticalAlignment="Top" Visibility="Collapsed" />
+                    <DataGrid AutoGenerateColumns="True" Height="110" HorizontalAlignment="Left" Margin="5,28,0,0" Name="DGDocCabec" VerticalAlignment="Top" Width="1260" FontSize="10">
+                        <DataGrid.Columns>
+                            <DataGridCheckBoxColumn Width="90" Visibility="Collapsed" Binding="{Binding Path= ISSELECTED, UpdateSourceTrigger=PropertyChanged}" >
+                                <DataGridCheckBoxColumn.Header>
+                                    <DockPanel>
+                                        <Border Name="detalledocscheck" Background="#BAFFFFFF">
+                                            <!--<CheckBox Content="Seleccionar" Name="ChkDetalleDocs" Checked="ChkDetalleDocs_Checked" Unchecked="ChkDetalleDocs_Unchecked" IsChecked="{Binding AllSelected}" />-->
+                                        </Border>
+                                    </DockPanel>
+                                </DataGridCheckBoxColumn.Header>
+                                <DataGridCheckBoxColumn.ElementStyle>
+                                    <Style TargetType="CheckBox">
+                                        <Style.Triggers>
+                                            <MultiDataTrigger>
+                                                <MultiDataTrigger.Conditions>
+                                                    <Condition Binding="{Binding HasMaxNumberReached, RelativeSource={RelativeSource AncestorType={x:Type Window}}}" Value="true"/>
+                                                    <Condition Binding="{Binding IsChecked, RelativeSource={RelativeSource Self}}" Value="false"/>
+                                                </MultiDataTrigger.Conditions>
+                                                <Setter Property="IsEnabled" Value="False"/>
+                                            </MultiDataTrigger>
+                                        </Style.Triggers>
+                                        <EventSetter Event="CheckBox.Checked" Handler="DataGridCheckBoxColumn_Checked" />
+                                    </Style>
+                                </DataGridCheckBoxColumn.ElementStyle>
+                            </DataGridCheckBoxColumn>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                    <Label Content="Datos cabecera / Documentos" Height="22" HorizontalAlignment="Left" Margin="19,0,0,0" Name="label9" VerticalAlignment="Top" Width="219" VerticalContentAlignment="Center" FontFamily="Arial" />
+                    <Label Content="Datos líneas / Vias de pago" Height="22" HorizontalAlignment="Left" Margin="19,153,0,0" Name="label10" VerticalAlignment="Top" Width="184" FontFamily="Arial" VerticalContentAlignment="Center" />
+                    <CheckBox Content="Filtrar datos" Height="18" HorizontalAlignment="Left" Margin="368,9,0,0" Name="chkFiltro" Checked="chkFiltro_Checked" Unchecked="chkFiltro_UnChecked" VerticalAlignment="Top" Width="131" />
+                    <Button Content="Validar efectivo" Height="19" HorizontalAlignment="Left" Margin="595,6,0,0" Name="btnRevisDoc" VerticalAlignment="Top" Width="118" Click="btnRevisDoc_Click" />
+                    <Button Content="Anular documentos" Height="18" HorizontalAlignment="Left" Margin="924,144,0,0" Name="btnAutAnul" VerticalAlignment="Top" Width="122"  Visibility="Collapsed" />
+                </Grid>
+            </GroupBox>
+            <GroupBox Header="ViasDePago"  Visibility="Collapsed" Height="251" Margin="10,406,0,0" Width="1300" Name="GBViasPago" HorizontalAlignment="Left" VerticalAlignment="Top" Grid.Row="3" Foreground="#FF3977AB" Grid.ColumnSpan="3">
+                <Grid Height="230" Width="1280" Margin="10,2,0,0" Name="ViasPagoGrid" VerticalAlignment="Top" Background="White" HorizontalAlignment="Left">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="130*" />
+                        <RowDefinition Height="90*" />
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="3*" />
+                        <ColumnDefinition Width="22*" />
+                        <ColumnDefinition Width="57*" />
+                        <ColumnDefinition Width="252*" />
+                        <ColumnDefinition Width="99*" />
+                        <ColumnDefinition Width="467*" />
+                    </Grid.ColumnDefinitions>
+                    <Label Content="Moneda" Visibility="Visible" Height="20" HorizontalAlignment="Right" Margin="0,4,11,0" Name="label6" VerticalAlignment="Top" FontFamily="Arial" FontSize="10" Grid.Column="2" />
+                    <ComboBox Height="20" Visibility="Visible" HorizontalAlignment="Left" Margin="78,4,0,0" Name="cmbMoneda" VerticalAlignment="Top" Width="120" FontFamily="Arial" FontSize="10" Grid.ColumnSpan="2" Grid.Column="2" >
+                    </ComboBox>
+                    <Grid Height="201"  Width="1200" HorizontalAlignment="Left" Margin="16,26,0,0" Name="MediosDePagosgrid" VerticalAlignment="Top" Grid.ColumnSpan="5" Grid.Column="1" Grid.RowSpan="2">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="127*" />
+                            <ColumnDefinition Width="746*" />
+                        </Grid.ColumnDefinitions>
+                        <DataGrid  Height="83" HorizontalAlignment="Left" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" AlternatingRowBackground="LightSalmon" FontSize="12" RowHeight="20" Margin="13,28,0,0" Name="DGMediosDePagos"  VerticalAlignment="Top" Width="408"   FontFamily="Arial"  Grid.ColumnSpan="2">
+                            <DataGrid.Columns>
+                            </DataGrid.Columns>
+                        </DataGrid>
+                        <ToolBarTray Height="25" HorizontalAlignment="Left" Margin="13,3,0,0" Name="toolBarTray1" VerticalAlignment="Top" Width="310" Grid.ColumnSpan="2">
+                            <ToolBar VerticalAlignment=   "Top" Height="25">
+                                <Separator Height="25"></Separator>
+                                <Button Content="Limpiar" Height="25" VerticalAlignment="Top" Width="60" FontSize="10" FontFamily="Arial"  />
+                            </ToolBar>
+                        </ToolBarTray>
+                        <Label Content="Total vias de pago" Height="22" HorizontalAlignment="Left" Margin="112,0,0,68" Name="label4" VerticalAlignment="Bottom" Width="119" FontSize="10" FontFamily="Arial" VerticalContentAlignment="Top" FontWeight="Black" BorderThickness="1" BorderBrush="Gray" Grid.ColumnSpan="2" />
+                        <Label Content="Total a pagar:" FontSize="10" Height="22" HorizontalAlignment="Left" Margin="112,133,0,46" Name="label7" VerticalAlignment="Center" Width="119" BorderBrush="Gray" BorderThickness="1" FontFamily="Arial" VerticalContentAlignment="Top" FontWeight="Black" Grid.ColumnSpan="2" />
+                        <Label Content="Diferencia:" FontSize="10" Height="22" HorizontalAlignment="Left" Margin="112,155,0,24" Name="label8" VerticalAlignment="Center" Width="119" FontFamily="Arial" VerticalContentAlignment="Top" FontWeight="Black" BorderThickness="1" BorderBrush="Gray" Grid.ColumnSpan="2" />
+                        <TextBox  Height="22" FontSize="10" HorizontalAlignment="Left" Margin="57,111,0,0" Name="textBlock3"  VerticalAlignment="Top" Width="140" TextAlignment="Right" FontFamily="Arial" FontWeight="Bold" BorderBrush="Gray" HorizontalContentAlignment="Right" Grid.Column="1" />
+                        <TextBox  Height="22" FontSize="10" HorizontalAlignment="Left" Margin="57,133,0,0" Name="textBlock4"  VerticalAlignment="Top" Width="140" TextAlignment="Right" FontFamily="Arial" FontWeight="Bold" BorderBrush="Gray" HorizontalContentAlignment="Right" Grid.Column="1" />
+                        <TextBox  Height="22" FontSize="10" HorizontalAlignment="Left" Margin="57,0,0,24" Name="textBlock5"  VerticalAlignment="Bottom" Width="140" TextAlignment="Right" FontFamily="Arial" FontWeight="Bold" BorderBrush="Gray" HorizontalContentAlignment="Right" Grid.Column="1" />
+                        <DataGrid  Height="90" AutoGenerateColumns="False"  HorizontalAlignment="Left" Margin="290,59,0,0" CanUserAddRows="True" CanUserDeleteRows="True" Name="DGCheque" VerticalAlignment="Top" Width="407" Visibility="Collapsed" Grid.Column="1">
+                            <DataGridTextColumn  Width="80" Header="N° documento" IsReadOnly="True" Binding="{Binding Path=NumDoc}" ></DataGridTextColumn >
+                            <DataGridTextColumn  Width="80" Header="Banco" IsReadOnly="True" Binding="{Binding Path=Banco}" ></DataGridTextColumn >
+                            <DataGridTextColumn  Width="80" Header="Plaza" IsReadOnly="True" Binding="{Binding Path=Plaza}" ></DataGridTextColumn >
+                            <DataGridTextColumn  Width="80" Header="Fecha Vencimiento" IsReadOnly="True" Binding="{Binding Path=FechaVenct}" ></DataGridTextColumn >
+                            <DataGridTextColumn  Width="80" Header="Numero cuenta corriente" IsReadOnly="True" Binding="{Binding Path=NumCtaCte}" ></DataGridTextColumn >
+                            <DataGridTextColumn  Width="80" Header="Monto" IsReadOnly="True" Binding="{Binding Path=Monto}" ></DataGridTextColumn >
+                            <DataGridTextColumn  Width="80" Header="RUT Girador" IsReadOnly="True" Binding="{Binding Path=RUTGirador}" ></DataGridTextColumn >
+                            <DataGridCell Height="40" />
+                        </DataGrid>
+                        <Button Content="Pagar" Height="20" HorizontalAlignment="Left" Margin="13,179,0,0"  IsEnabled="False" Name="btnConfirPag" VerticalAlignment="Top" Width="141" FontFamily="Arial" FontSize="14" FontWeight="ExtraBold" />
+                        <Label Content="Cheques" Height="20" HorizontalAlignment="Left" Margin="229,59,0,0" Name="label5" VerticalAlignment="Top" Width="55" FontFamily="Arial" FontSize="10" Visibility="Collapsed" Grid.Column="1" />
+                        <Grid Height="197" HorizontalAlignment="Left" Margin="270,3,0,0" Name="grid1" VerticalAlignment="Top" Width="739" Grid.Column="1">
+                            <ComboBox Height="24" VerticalAlignment="Top" Name="cmbVPMedioPag" DropDownClosed="cmbVPMedioPag_DropDownClosed"  Margin="0,2,5,0" HorizontalAlignment="Right" Width="138" FontFamily="Arial" FontSize="12" />
+                            <TextBox Height="24" HorizontalAlignment="Left" Margin="485,123,0,0" Name="txtTipoCamb" VerticalAlignment="Top" Width="40" FontFamily="Arial" FontSize="12"  Visibility="Collapsed" />
+                            <!--<TextBox Height="24" HorizontalAlignment="Right" Margin="0,33,20,0" Name="txtFechVenc" VerticalAlignment="Top" Width="59" FontFamily="Arial" FontSize="12" Visibility="Collapsed" />-->
+                            <ComboBox Height="24" HorizontalAlignment="Right" Margin="0,33,75,0" Name="cmbBanco" VerticalAlignment="Top" Width="180" FontFamily="Arial" FontSize="12" Visibility="Visible" />
+                            <TextBox Height="24" HorizontalAlignment="Right" Margin="0,61,225,0" Name="txtSucursal" VerticalAlignment="Top" Width="66" FontFamily="Arial" FontSize="12" Visibility="Visible" />
+                            <TextBox Height="24" HorizontalAlignment="Left" Margin="80,88,0,0" Name="txtNumDoc" VerticalAlignment="Top" Width="112" FontFamily="Arial" FontSize="12" Visibility="Visible"/>
+                            <TextBox Height="24" HorizontalAlignment="Right" Margin="0,2,586,0" Name="txtMontoFP" VerticalAlignment="Top" Width="95" FontFamily="Arial" FontSize="12" HorizontalContentAlignment="Right" />
+                            <TextBox Height="24" HorizontalAlignment="Left" Margin="280,94,0,0" Name="txtNumCuenta" VerticalAlignment="Top" Width="120" FontFamily="Arial" FontSize="12" Visibility="Collapsed" />
+                            <TextBox Visibility="Visible" Height="24" HorizontalAlignment="Right" Margin="0,115,563,0" Name="txtRUTGirador" Focusable="True"  VerticalAlignment="Top" Width="86" FontFamily="Arial" FontSize="12" />
+                            <Label Content="Tipo documento" Height="24" HorizontalAlignment="Left" Margin="499,1,0,0" Name="lblVPVPMedioPag" VerticalAlignment="Top" Width="95" FontFamily="Arial" FontSize="12" VerticalContentAlignment="Center" />
+                            <Label Content="Tipo cambio" FontFamily="Arial" FontSize="12" Height="24" HorizontalAlignment="Left" Margin="390,123,0,0" Name="label24" VerticalAlignment="Top" Width="88" VerticalContentAlignment="Center" Visibility="Collapsed" />
+                            <Label Content="Fecha vencimiento" FontFamily="Arial" FontSize="12" Height="24" HorizontalAlignment="Left" Margin="208,33,0,0" Name="label25" VerticalAlignment="Top" Width="113" Visibility="Visible" />
+                            <Label Content="Banco" FontFamily="Arial" FontSize="12" Height="24" HorizontalAlignment="Left" Margin="433,33,0,0" Name="label26" VerticalAlignment="Top" Width="45" VerticalContentAlignment="Center" Visibility="Visible" />
+                            <Label Content="Banco propio" FontFamily="Arial" FontSize="12" Height="24" HorizontalAlignment="Left" Margin="215,142,0,0" Name="label43" VerticalAlignment="Top" Width="84" VerticalContentAlignment="Center" Visibility="Collapsed" />
+
+                            <Label Content="Plaza" FontFamily="Arial" FontSize="12" Height="24" HorizontalAlignment="Left" Margin="391,61,0,0" Name="label27" VerticalAlignment="Top" Width="56" VerticalContentAlignment="Center" Visibility="Visible" />
+                            <Label Content="Número VP" FontFamily="Arial" FontSize="12" Height="24" HorizontalAlignment="Left" Margin="5,88,0,0" Name="label28" VerticalAlignment="Top" Width="73" VerticalContentAlignment="Center" Visibility="Visible" />
+                            <Label Content="Monto" FontFamily="Arial" FontSize="12" Height="24" HorizontalAlignment="Left" Margin="7,2,0,0" Name="label29" VerticalAlignment="Top" Width="47" VerticalContentAlignment="Center" />
+                            <Label Content="Número cuenta" FontFamily="Arial" FontSize="12" Height="24" HorizontalAlignment="Left" Margin="191,94,0,0" Name="label30" VerticalAlignment="Top" Width="91" VerticalContentAlignment="Center" Visibility="Collapsed" HorizontalContentAlignment="Center" />
+                            <Label Content="RUT girador" Visibility="Visible" FontFamily="Arial" FontSize="12" Height="24" HorizontalAlignment="Left" Margin="7,115,0,0" Name="label31" VerticalAlignment="Top" Width="85" VerticalContentAlignment="Center"  />
+                            <Button Content="Agregar monto" Height="28" HorizontalAlignment="Left" Margin="596,162,0,0" Name="btnAgregaMto" VerticalAlignment="Top" Width="135" FontFamily="Arial" FontSize="13" FontWeight="ExtraLight" />
+                            <!--<TextBox FontFamily="Arial" FontSize="12" Height="24" HorizontalAlignment="Left" Margin="260,33,0,0" Name="txtFechActual" VerticalAlignment="Top" Width="67" TextChanged="txtFechActual_TextChanged"></TextBox>-->
+                            <TextBox FontFamily="Arial" FontSize="12" Height="24" HorizontalAlignment="Right" Margin="0,169,548,0" Name="txtCantDoc" VerticalAlignment="Top" Width="69" Visibility="Visible"></TextBox>
+                            <ComboBox FontFamily="Arial" FontSize="12" Height="24" HorizontalAlignment="Right" Margin="0,169,425,0" Name="cmbIntervalo" VerticalAlignment="Top" Width="47" Visibility="Visible">
+                                <ComboBoxItem>30</ComboBoxItem>
+                            </ComboBox>
+                            <Label Content="Fecha emisión" FontFamily="Arial" FontSize="12" Height="24" HorizontalAlignment="Left" Margin="7,33,0,0" Name="label32" VerticalAlignment="Top" VerticalContentAlignment="Center" Width="91" Visibility="Visible" />
+                            <Label Content="N° de documentos" FontFamily="Arial" FontSize="12" Height="24" HorizontalAlignment="Left" Margin="6,169,0,0" Name="label33" VerticalAlignment="Top" VerticalContentAlignment="Center" Width="121" Visibility="Visible" />
+                            <Label Content="Intervalo" FontFamily="Arial" FontSize="12" Height="24" HorizontalAlignment="Left" Margin="209,169,0,0" Name="label34" VerticalAlignment="Top" Width="59" Visibility="Visible" />
+                            <RadioButton Content="Fijo" Height="21" HorizontalAlignment="Right" Margin="0,68,77,0" Name="RBFijo" VerticalAlignment="Top" Width="41" FontFamily="Arial" FontSize="10" VerticalContentAlignment="Center" Visibility="Collapsed" />
+                            <RadioButton Content="Variable" Height="21" HorizontalAlignment="Right" Margin="0,68,17,0" Name="RBVariable" VerticalAlignment="Top" Width="59" FontFamily="Arial" FontSize="10" VerticalContentAlignment="Center" Visibility="Collapsed" />
+                            <TextBox Height="20" HorizontalAlignment="Left" Margin="110,156,0,0" Name="txtTasa" VerticalAlignment="Top" Width="74" FontFamily="Arial" FontSize="10" Visibility="Collapsed" />
+                            <TextBox Height="20" HorizontalAlignment="Left" Margin="275,156,0,0" Name="txtCuotaRef" VerticalAlignment="Top" Width="82" FontFamily="Arial" FontSize="10" Visibility="Collapsed" />
+                            <Label Content="Tasa de interés" Height="20" HorizontalAlignment="Left" Margin="25,156,0,0" Name="label35" VerticalAlignment="Top" Width="80" FontFamily="Arial" FontSize="10" Visibility="Collapsed" />
+                            <Label Content="Cuota referencial" Height="20" HorizontalAlignment="Left" Margin="190,156,0,0" Name="label36" VerticalAlignment="Top" Width="87" FontFamily="Arial" FontSize="10" Visibility="Collapsed" />
+                            <Rectangle Height="30"  HorizontalAlignment="Left" Margin="21,151,0,0" Name="rectangle1" Stroke="Black" VerticalAlignment="Top" Width="348" Visibility="Collapsed"></Rectangle>
+                            <Label Content="Cálculo de cuotas" Height="20" HorizontalAlignment="Left" Margin="22,127,0,0" Name="label37" VerticalAlignment="Top" Width="111" FontSize="10" FontFamily="Arial" Visibility="Collapsed" />
+                            <TextBox FontFamily="Arial" FontSize="10" Height="24" HorizontalAlignment="Right" Margin="0,88,27,0" Name="txtPatente" Visibility="Visible" VerticalAlignment="Top" Width="60" />
+                            <Label Content="Patente" FontFamily="Arial" FontSize="12" Height="24" HorizontalAlignment="Right" Margin="0,88,93,0" Name="lblPatente" Visibility="Visible" VerticalAlignment="Top" VerticalContentAlignment="Center" Width="50" />
+                            <Label FontFamily="Arial" FontSize="12" Height="24"  HorizontalAlignment="Left" Margin="329,2,0,0" Name="lblCondPago" VerticalAlignment="Top" Width="167"/>
+                            <Label Content="Condición de pago" FontFamily="Arial" FontSize="12" Height="24" HorizontalAlignment="Left" Margin="219,2,0,0" Name="label2" VerticalAlignment="Top" VerticalContentAlignment="Center" Width="110" />
+                            <TextBox Focusable="True" FontFamily="Arial" FontSize="12" Height="24" HorizontalAlignment="Left" Margin="99,142,0,0" Name="txtNombreGira" VerticalAlignment="Top" Width="106" Visibility="Visible" />
+                            <Label Content="Nombre girador" FontFamily="Arial" FontSize="12" Height="24" HorizontalAlignment="Left" Margin="7,142,0,0" Name="label38" VerticalAlignment="Top" VerticalContentAlignment="Center" Width="93" Visibility="Visible" HorizontalContentAlignment="Center" />
+                            <TextBox FontFamily="Arial" Visibility="Visible" FontSize="12" Height="24" HorizontalAlignment="Left" Margin="90,61,0,0" Name="txtNumVenta" VerticalAlignment="Top" Width="71" />
+                            <Label Content="Número venta" Visibility="Visible" FontFamily="Arial" FontSize="12" Height="24" HorizontalAlignment="Left" Margin="5,61,0,0" Name="label39" VerticalAlignment="Top" VerticalContentAlignment="Center" Width="87" />
+                            <TextBox FontFamily="Arial"  Visibility="Visible" FontSize="12" Height="24" HorizontalAlignment="Right" Margin="0,88,150,0" Name="txtObserv" VerticalAlignment="Top" Width="295" />
+                            <Label Content="Observaciones"  Visibility="Visible" FontFamily="Arial" FontSize="12" Height="24" HorizontalAlignment="Left" Margin="205,88,0,0" Name="label40" VerticalAlignment="Top" VerticalContentAlignment="Center" Width="90" />
+                            <!--<TextBox FontFamily="Arial" FontSize="12"  Visibility="Collapsed" Height="24" HorizontalAlignment="Right" Margin="0,64,265,0" Name="txtCodAuto" VerticalAlignment="Top" Width="112" />
+                            <Label Content="Código de autorización" FontFamily="Arial"  Visibility="Collapsed" FontSize="12" Height="24" HorizontalAlignment="Left" Margin="18,64,0,0" Name="label41" VerticalAlignment="Top" VerticalContentAlignment="Center" Width="134" />-->
+                            <ComboBox FontFamily="Arial" FontSize="12" Height="24"  Visibility="Visible" HorizontalAlignment="Right" Margin="0,61,5,0" Name="cmbIfinan" VerticalAlignment="Top" Width="92" />
+                            <Label Content="RUT Entid Financiera" FontFamily="Arial" FontSize="12" Height="24"  Visibility="Visible" HorizontalAlignment="Right" Margin="0,61,98,0" Name="label42" VerticalAlignment="Top" VerticalContentAlignment="Center" Width="125" />
+                            <ComboBox FontFamily="Arial" FontSize="12" Height="24" HorizontalAlignment="Left" Margin="300,142,0,0" Name="cmbBancoProp"  DropDownClosed="cmbBancoProp_DropDownClosed" VerticalAlignment="Top" Visibility="Collapsed" Width="180" />
+                            <ComboBox FontFamily="Arial" FontSize="12" Height="24" HorizontalAlignment="Left" Margin="482,142,0,0" Name="cmbCuentasBancosProp" VerticalAlignment="Top" Visibility="Visible" IsEnabled="False" IsEditable="False" Width="106" />
+                            <DatePicker Height="24" HorizontalAlignment="Right" Margin="0,33,535,0" Name="DPFechActual" VerticalAlignment="Top" Width="110" Visibility="Visible" />
+                            <DatePicker Visibility="Visible" Height="24" HorizontalAlignment="Right" Margin="0,33,312,0" Name="DPFechVenc" VerticalAlignment="Top" Width="110" />
+                            <ComboBox FontFamily="Arial" FontSize="12" Height="24" HorizontalAlignment="Left" Margin="209,61,0,0" Name="cmbTipoTarjeta" VerticalAlignment="Top" Visibility="Visible" Width="180" />
+                            <Label Content="Tarjeta" FontFamily="Arial" FontSize="12" Height="24" HorizontalAlignment="Left" Margin="163,61,0,0" Name="label46" VerticalAlignment="Top" VerticalContentAlignment="Center" Visibility="Visible" Width="50" />
+                            <TextBox FontFamily="Arial"  Visibility="Visible" FontSize="12" Height="24" HorizontalAlignment="Right" HorizontalContentAlignment="Right" Margin="0,115,331,0" Name="txtCodAut" VerticalAlignment="Top" Width="100"  />
+                            <Label  Content="Cod.autorización"  Visibility="Visible" FontFamily="Arial" FontSize="12" Height="24" HorizontalAlignment="Left" Margin="210,115,0,0" Name="label48" VerticalAlignment="Top" VerticalContentAlignment="Center" Width="101"   />
+                            <Label Content="Cod.operación"  Visibility="Visible" FontFamily="Arial" FontSize="12" Height="24" HorizontalAlignment="Left" Margin="412,115,0,0" Name="label49" VerticalAlignment="Top" VerticalContentAlignment="Center" Width="93" HorizontalContentAlignment="Center" />
+                            <TextBox FontFamily="Arial"  Visibility="Visible" FontSize="12" Height="24" HorizontalAlignment="Right" HorizontalContentAlignment="Right" Margin="0,115,132,0" Name="txtCodOp" VerticalAlignment="Top" Width="100"  />
+                            <Label Content="Asignación"  Visibility="Visible" FontFamily="Arial" FontSize="12" Height="24" HorizontalAlignment="Left" Margin="611,115,0,0" Name="label50" VerticalAlignment="Top" VerticalContentAlignment="Center" Width="69"  />
+                            <TextBox FontFamily="Arial"  Visibility="Visible" FontSize="12" Height="24" HorizontalAlignment="Right" HorizontalContentAlignment="Right" Margin="0,115,8,0" Name="txtAsig" VerticalAlignment="Top" Width="50"  />
+                            <Button Content="Autorización" Height="17" HorizontalAlignment="Left" Margin="94,150,0,0" Name="btnAutorizacion" VerticalAlignment="Top" Width="96" Visibility="Collapsed" />
+                        </Grid>
+                        <Button Content="Ver resumen de pagos" Height="20" HorizontalAlignment="Left" Margin="33,179,0,0" Name="btnResPagos" VerticalAlignment="Top" Width="147" Grid.Column="1" />
+                        <!--<Image Height="89" HorizontalAlignment="Left" Margin="568,6,0,0" Name="image2" Stretch="Fill" VerticalAlignment="Top" Width="140" Source="/CajaIndigo;component/Images/cancelar.jpg" />-->
+
+                    </Grid>
+                </Grid>
+            </GroupBox>
+            <GroupBox Header="Documentos a pagar" Visibility="Collapsed"   Height="185" HorizontalAlignment="Left" Margin="10,218,0,0" Name="GBDocsAPagar" VerticalAlignment="Top" Width="1300"   Grid.Row="3" Foreground="#FF3977AB" Grid.ColumnSpan="3">
+                <Grid Height="163" Width="1280" Name="DocsAPagarGrid" VerticalAlignment="Top" HorizontalAlignment="Left" Grid.Column="2" Margin="10,1,0,0" Grid.Row="3">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="201*" />
+                        <ColumnDefinition Width="681*" />
+                    </Grid.ColumnDefinitions>
+                    <Button Content="Definir vías de pago" Height="20" HorizontalAlignment="Left" Margin="8,137,0,0" Name="btnPagos" VerticalAlignment="Top" Width="126" FontSize="10" FontFamily="Arial" />
+                    <DataGrid AutoGenerateColumns="False"  AlternatingRowBackground="LightSalmon" Width="1260" Height="133" Margin="5,2,0,0" SelectionUnit="FullRow" HorizontalAlignment="Left" ScrollViewer.CanContentScroll="True" ScrollViewer.HorizontalScrollBarVisibility="Visible" ScrollViewer.VerticalScrollBarVisibility="Visible" Name="DGPagos" FontSize="10" FontFamily="Arial" VerticalAlignment="Top" CanUserAddRows="True" CanUserDeleteRows="True"  MouseDoubleClick="DGPagos_MouseDoubleClick" IsReadOnly="True" SelectionMode="Extended" Grid.ColumnSpan="2">
+                        <DataGrid.Columns>
+                            <DataGridCheckBoxColumn Width="90" Binding="{Binding Path= ISSELECTED, UpdateSourceTrigger=PropertyChanged}" >
+                                <DataGridCheckBoxColumn.Header>
+                                    <DockPanel>
+                                        <Border Name="vehicle" Background="#BAFFFFFF">
+                                            <CheckBox Content="Seleccionar" Name="ChkDocsPagar" Checked="ChkDocsPagar_Checked" Unchecked="ChkDocsPagar_Unchecked" IsChecked="{Binding AllSelected}" />
+                                        </Border>
+                                    </DockPanel>
+                                </DataGridCheckBoxColumn.Header>
+                                <DataGridCheckBoxColumn.ElementStyle>
+                                    <Style TargetType="CheckBox">
+                                        <Style.Triggers>
+                                            <MultiDataTrigger>
+                                                <MultiDataTrigger.Conditions>
+                                                    <Condition Binding="{Binding HasMaxNumberReached, RelativeSource={RelativeSource AncestorType={x:Type Window}}}" Value="true"/>
+                                                    <Condition Binding="{Binding IsChecked, RelativeSource={RelativeSource Self}}" Value="false"/>
+                                                </MultiDataTrigger.Conditions>
+                                                <Setter Property="IsEnabled" Value="False"/>
+                                            </MultiDataTrigger>
+                                        </Style.Triggers>
+                                        <EventSetter Event="CheckBox.Checked" Handler="DataGridCheckBoxColumn_Checked" />
+                                    </Style>
+                                </DataGridCheckBoxColumn.ElementStyle>
+                            </DataGridCheckBoxColumn>
+                            <DataGridTextColumn  Width="80" Header="Sociedad" IsReadOnly="True" Binding="{Binding Path=SOCIEDAD}" ></DataGridTextColumn >
+                            <DataGridTextColumn  Width="80" Header="Tipo documento"  Visibility="Visible" IsReadOnly="True" Binding="{Binding Path=ICONO}" ></DataGridTextColumn >
+                            <DataGridTextColumn  Width="80" Header="N° documento" IsReadOnly="True" Binding="{Binding Path=NDOCTO}" ></DataGridTextColumn >
+                            <DataGridTextColumn  Width="80" Header="N° RUT" IsReadOnly="True" Binding="{Binding Path=RUTCLI}" ></DataGridTextColumn >
+                            <DataGridTextColumn  Width="100" Header="Fecha doc." Visibility="Collapsed" IsReadOnly="True" Binding="{Binding Path=FECHA_DOC}" ></DataGridTextColumn >
+                            <DataGridTextColumn  Width="80" Header="Ctrl. crédito"  Visibility="Collapsed" IsReadOnly="True" Binding="{Binding Path=CONTROL_CREDITO}" ></DataGridTextColumn >
+                            <DataGridTextColumn  Width="80" Header="CeBe" Visibility="Collapsed" IsReadOnly="True" Binding="{Binding Path=CEBE}" ></DataGridTextColumn >
+                            <DataGridTextColumn  Width="80" Header="Cód.cliente"  Visibility="Collapsed" IsReadOnly="True" Binding="{Binding Path=COD_CLIENTE}" ></DataGridTextColumn >
+                            <DataGridTextColumn  Width="140" Header="Nombre cliente" IsReadOnly="True" Binding="{Binding Path=NOMCLI}" ></DataGridTextColumn >
+                            <DataGridTextColumn  Width="120" Header="Monto a pagar"  IsReadOnly="True" Binding="{Binding  Path=MONTOF_PAGAR}"  >
+                                <DataGridTextColumn.ElementStyle>
+                                    <Style TargetType="TextBlock">
+                                        <Setter Property="TextAlignment" Value="Right" />
+                                    </Style>
+                                </DataGridTextColumn.ElementStyle>
+                            </DataGridTextColumn >
+                            <DataGridTextColumn  Width="80" Header="Estado"  Visibility="Collapsed" IsReadOnly="True" Binding="{Binding Path=ESTADO}" ></DataGridTextColumn >
+                            <DataGridTextColumn  Width="100" Header="Fecha Documento" IsReadOnly="True" Binding="{Binding Path=FECHA_DOC}" ></DataGridTextColumn>
+                            <DataGridTextColumn  Width="80" Header="Días atraso" Visibility="Collapsed" IsReadOnly="True" Binding="{Binding Path=DIAS_ATRASO}" ></DataGridTextColumn >
+                            <DataGridTextColumn  Width="80" Header="Moneda" Visibility="Collapsed" IsReadOnly="True" Binding="{Binding Path=MONEDA}" ></DataGridTextColumn >
+                            <DataGridTextColumn  Width="120" Header="Monto a abonar" Visibility="Collapsed" IsReadOnly="True" Binding="{Binding Path=MONTOF_ABON}" >
+                                <DataGridTextColumn.ElementStyle>
+                                    <Style TargetType="TextBlock">
+                                        <Setter Property="TextAlignment" Value="Right" />
+                                    </Style>
+                                </DataGridTextColumn.ElementStyle>
+                            </DataGridTextColumn >
+                            <DataGridTextColumn  Width="120" Header="Monto" Visibility="Collapsed" IsReadOnly="True" Binding="{Binding Path=MONTOF}" >
+                                <DataGridTextColumn.ElementStyle>
+                                    <Style TargetType="TextBlock">
+                                        <Setter Property="TextAlignment" Value="Right" />
+                                    </Style>
+                                </DataGridTextColumn.ElementStyle>
+                            </DataGridTextColumn >
+                            <DataGridTextColumn  Width="120" Visibility="Collapsed" Header="MontoSAP" IsReadOnly="True" Binding="{Binding Path=MONTO}" >
+                                <DataGridTextColumn.ElementStyle>
+                                    <Style TargetType="TextBlock">
+                                        <Setter Property="TextAlignment" Value="Right" />
+                                    </Style>
+                                </DataGridTextColumn.ElementStyle>
+                            </DataGridTextColumn >
+                            <DataGridTextColumn  Width="80" Header="Clase documento" Visibility="Collapsed" IsReadOnly="True" Binding="{Binding Path=CLASE_DOC}" ></DataGridTextColumn >
+                            <DataGridTextColumn  Width="80" Header="Clase cuenta" Visibility="Collapsed" IsReadOnly="True" Binding="{Binding Path=CLASE_CUENTA}" ></DataGridTextColumn >
+                            <DataGridTextColumn  Width="140" Header="Condición de pago" IsReadOnly="True" Binding="{Binding Path=COND_PAGO}" ></DataGridTextColumn >
+                            <DataGridTextColumn  Width="80" Header="N° referencia" Visibility="Visible" IsReadOnly="True" Binding="{Binding Path=NREF}" ></DataGridTextColumn >
+                            <DataGridTextColumn  Width="80" Header="CME" Visibility="Visible" IsReadOnly="True" Binding="{Binding Path=CME}" ></DataGridTextColumn >
+                            <DataGridTextColumn  Width="80" Header="ACC" Visibility="Visible" IsReadOnly="True" Binding="{Binding Path=ACC}" ></DataGridTextColumn >
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </Grid>
+            </GroupBox>
+            <DatePicker Grid.Column="2" Height="25" HorizontalAlignment="Left" Margin="819,-1,0,0" Name="calendario" VerticalAlignment="Top" Width="119" IsEnabled="False" SelectedDateFormat="Long" FontSize="10" FontFamily="Arial" HorizontalContentAlignment="Left" IsHitTestVisible="False" IsTodayHighlighted="False" FontWeight="SemiBold" FontStretch="SemiCondensed" Grid.RowSpan="3">
+                <DatePicker.Background>
+                    <SolidColorBrush />
+                </DatePicker.Background>
+            </DatePicker>
+            <Image Grid.Column="2" Height="42" HorizontalAlignment="Left" Margin="822,3,0,0" Name="image2" Stretch="Uniform" VerticalAlignment="Top" Width="116" Visibility="Visible" Source="/CajaIndigo;component/Images/retail.png" Grid.Row="3" RenderTransformOrigin="0.7,0.508" />
+            <DataGrid AutoGenerateColumns="False" Grid.Column="2" Grid.Row="3" Height="41" HorizontalAlignment="Left" Margin="133,290,0,0" Name="DGLogApertura" VerticalAlignment="Top" Visibility="Collapsed" Width="233" >
+                <DataGridTextColumn  Width="120" Visibility="Collapsed" Header="Mandt" IsReadOnly="True" Binding="{Binding Path=MANDT}" >
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="TextAlignment" Value="Right" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn >
+                <DataGridTextColumn  Width="120" Visibility="Collapsed" Header="Id Registro" IsReadOnly="True" Binding="{Binding Path=ID_REGISTRO}" >
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="TextAlignment" Value="Right" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn >
+                <DataGridTextColumn  Width="120" Visibility="Collapsed" Header="Land" IsReadOnly="True" Binding="{Binding Path=LAND}" >
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="TextAlignment" Value="Right" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn >
+                <DataGridTextColumn  Width="120" Visibility="Collapsed" Header="Id Caja" IsReadOnly="True" Binding="{Binding Path=ID_CAJA}" >
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="TextAlignment" Value="Right" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn >
+                <DataGridTextColumn  Width="120" Visibility="Collapsed" Header="Usuario" IsReadOnly="True" Binding="{Binding Path=USUARIO}" >
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="TextAlignment" Value="Right" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn >
+                <DataGridTextColumn  Width="120" Visibility="Collapsed" Header="Mandt" IsReadOnly="True" Binding="{Binding Path=FECHA}" >
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="TextAlignment" Value="Right" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn >
+                <DataGridTextColumn  Width="120" Visibility="Collapsed" Header="Hora" IsReadOnly="True" Binding="{Binding Path=HORA}" >
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="TextAlignment" Value="Right" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn >
+                <DataGridTextColumn  Width="120" Visibility="Collapsed" Header="Monto" IsReadOnly="True" Binding="{Binding Path=MONTO}" >
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="TextAlignment" Value="Right" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn >
+                <DataGridTextColumn  Width="120" Visibility="Collapsed" Header="Moneda" IsReadOnly="True" Binding="{Binding Path=MONEDA}" >
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="TextAlignment" Value="Right" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn >
+                <DataGridTextColumn  Width="120" Visibility="Collapsed" Header="Tipo registro" IsReadOnly="True" Binding="{Binding Path=TIPO_REGISTRO}" >
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="TextAlignment" Value="Right" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn >
+                <DataGridTextColumn  Width="120" Visibility="Collapsed" Header="Id Apertura" IsReadOnly="True" Binding="{Binding Path=ID_APERTURA}" >
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="TextAlignment" Value="Right" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn >
+                <DataGridTextColumn  Width="120" Visibility="Collapsed" Header="Texto cierre" IsReadOnly="True" Binding="{Binding Path=TXT_CIERRE}" >
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="TextAlignment" Value="Right" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn >
+                <DataGridTextColumn  Width="120" Visibility="Collapsed" Header="Bloqueo" IsReadOnly="True" Binding="{Binding Path=BLOQUEO}" >
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="TextAlignment" Value="Right" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn >
+                <DataGridTextColumn  Width="120" Visibility="Collapsed" Header="Usuario bloqueo" IsReadOnly="True" Binding="{Binding Path=USUARIO_BLOQ}" >
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="TextAlignment" Value="Right" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn >
+            </DataGrid>
+            <Grid Grid.Column="2" Grid.Row="3" Height="161" HorizontalAlignment="Left" Margin="490,53,0,0" Name="grid2" VerticalAlignment="Top" Width="343" Visibility="Collapsed" >
+                <TextBox Height="18" HorizontalAlignment="Left" Margin="162,3,0,0" Name="txtTemporal" VerticalAlignment="Top" Width="42" Visibility="Collapsed" />
+                <TextBox Height="25" HorizontalAlignment="Right" Margin="0,16,23,0" Name="txtIdSistema"  VerticalAlignment="Top" Width="129" FontFamily="Arial" FontSize="11" Visibility="Collapsed" />
+                <TextBox Height="25" HorizontalAlignment="Right" Margin="0,44,23,0" Name="txtInstancia"  VerticalAlignment="Top" Width="129" FontFamily="Arial" FontSize="11" Visibility="Collapsed" />
+                <TextBox Height="25" HorizontalAlignment="Right" Margin="0,72,23,0" Name="txtMandante"  VerticalAlignment="Top" Width="129" FontFamily="Arial" FontSize="11" Visibility="Collapsed" />
+                <TextBox Height="25" HorizontalAlignment="Right" Margin="0,100,23,0" Name="txtSapRouter"  VerticalAlignment="Top" Width="129" FontFamily="Arial" FontSize="11" Visibility="Collapsed" />
+                <TextBox Height="25" HorizontalAlignment="Right" Margin="0,128,23,0" Name="txtServer"  VerticalAlignment="Top" Width="129" FontFamily="Arial" FontSize="11" Visibility="Collapsed" />
+                <TextBox Height="25" HorizontalAlignment="Right" Margin="0,144,23,0" Name="txtIdioma" VerticalAlignment="Top" Width="129" FontFamily="Arial" FontSize="11" Visibility="Collapsed" />
+                <TextBox Height="25" HorizontalAlignment="Right" Margin="0,144,23,0" Name="txtpais" VerticalAlignment="Top" Width="129" FontFamily="Arial" FontSize="11" Visibility="Collapsed" />
+                <TextBox Height="25" HorizontalAlignment="Right" Margin="0,144,23,0" Name="UsuarioCaja" VerticalAlignment="Top" Width="129" FontFamily="Arial" FontSize="11" Visibility="Collapsed" />
+                <TextBox Height="25" HorizontalAlignment="Right" Margin="0,144,23,0" Name="idcaja" VerticalAlignment="Top" Width="129" FontFamily="Arial" FontSize="11" Visibility="Collapsed" />
+                <TextBox Height="25" HorizontalAlignment="Right" Margin="0,144,23,0" Name="NomCaja" VerticalAlignment="Top" Width="129" FontFamily="Arial" FontSize="11" Visibility="Collapsed" />
+                <TextBox Height="25" HorizontalAlignment="Right" Margin="0,144,23,0" Name="SociedCaja" VerticalAlignment="Top" Width="129" FontFamily="Arial" FontSize="11" Visibility="Collapsed" />
+
+                <TextBox Height="25" HorizontalAlignment="Right" Margin="0,144,23,0" Name="usercajaLog" VerticalAlignment="Top" Width="129" FontFamily="Arial" FontSize="11" Visibility="Collapsed" />
+                <TextBox Height="25" HorizontalAlignment="Right" Margin="0,144,23,0" Name="MonedaCaja" VerticalAlignment="Top" Width="129" FontFamily="Arial" FontSize="11" Visibility="Collapsed" />
+                <TextBox Height="25" HorizontalAlignment="Right" Margin="0,144,23,0" Name="PaisCaja" VerticalAlignment="Top" Width="129" FontFamily="Arial" FontSize="11" Visibility="Collapsed" />
+                <TextBox Height="25" HorizontalAlignment="Right" Margin="0,144,23,0" Name="PassUserCaja" VerticalAlignment="Top" Width="129" FontFamily="Arial" FontSize="11" Visibility="Collapsed" />
+            </Grid>
+            <GroupBox Grid.Row="3" Header="" Height="86" HorizontalAlignment="Left" Visibility="Collapsed" Margin="0,221,0,0" Name="GBCommentCierre" VerticalAlignment="Top" Width="605" Grid.ColumnSpan="3">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="48*" />
+                        <ColumnDefinition Width="407*" />
+                    </Grid.ColumnDefinitions>
+                    <Label Content="Comentario cierre" FontFamily="Arial" FontSize="10" Height="20" HorizontalAlignment="Left" Name="label80" VerticalAlignment="Top" Width="91" Margin="3,3,0,0" Visibility="Visible" Grid.ColumnSpan="2" />
+                    <TextBox Height="20" HorizontalAlignment="Left" Margin="62,3,0,0" Name="txtCommCierre" VerticalAlignment="Top" Width="462" Visibility="Visible" Grid.Column="1" />
+                    <Label Content="Comentario diferencia" Height="20" HorizontalAlignment="Left" Margin="3,30,0,0" Name="label77" VerticalAlignment="Top" Width="119" FontSize="10" FontFamily="Arial" Visibility="Collapsed" Grid.ColumnSpan="2" />
+                    <TextBox Grid.Column="1" Height="20" HorizontalAlignment="Left" Name="txtCommDif" VerticalAlignment="Top" Width="462" Margin="62,30,0,0" FontSize="10" FontFamily="Arial" Visibility="Collapsed" />
+                    <TextBox Height="18" HorizontalAlignment="Left" Margin="3,50,0,0" Name="txtArqueo" VerticalAlignment="Top" Width="123" Visibility="Collapsed" Grid.ColumnSpan="2" />
+                </Grid>
+            </GroupBox>
+        </Grid>
+    </ScrollViewer>
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="Black" Offset="0" />
+            <GradientStop Color="#00E6EAED" Offset="1" />
+            <GradientStop Color="#16D1D5D8" Offset="1" />
+        </LinearGradientBrush>
+    </Window.Background>
+</Window>

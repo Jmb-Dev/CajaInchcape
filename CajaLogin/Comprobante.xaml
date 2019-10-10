@@ -1,0 +1,105 @@
+﻿<Window x:Class="CajaIndigo.Comprobante"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Comprobante" Height="503" Closed="Window_Closed"  Loaded="Window_Loaded" Width="826">
+    <Grid>
+
+        <DataGrid AutoGenerateColumns="False"  AlternatingRowBackground="LightSalmon" Width="764" Height="116" Margin="5,190,0,0" HorizontalAlignment="Left" ItemsSource="{Binding}" ScrollViewer.CanContentScroll="True" ScrollViewer.HorizontalScrollBarVisibility="Visible" ScrollViewer.VerticalScrollBarVisibility="Visible" Name="DGPagos" FontSize="10" FontFamily="Arial" VerticalAlignment="Top" CanUserAddRows="True" CanUserDeleteRows="True"   IsReadOnly="True" SelectionMode="Extended">
+            <DataGrid.Columns>
+                <!--<DataGridTextColumn  Width="120"  Header="N° documento" IsReadOnly="True" Binding="{Binding Path=NDOCTO}" ></DataGridTextColumn >
+                <DataGridTextColumn  Width="120" Header="N° referencia" IsReadOnly="True" Binding="{Binding Path=NREF}" ></DataGridTextColumn >-->
+                <!--<DataGridTextColumn  Width="80" Visibility="Collapsed" Header="Sociedad" IsReadOnly="True" Binding="{Binding Path=SOCIEDAD}" ></DataGridTextColumn >-->
+                <DataGridTextColumn  Width="80" Visibility="Visible" Header="Documento" IsReadOnly="True" Binding="{Binding Path=TXT_DOCU}" ></DataGridTextColumn >
+                <DataGridTextColumn  Width="80" Visibility="Visible" Header="N°" IsReadOnly="True" Binding="{Binding Path=NRO_DOCUMENTO}" ></DataGridTextColumn >
+                <DataGridTextColumn  Width="80" Visibility="Visible" Header="Fecha" IsReadOnly="True" Binding="{Binding Path=FECHA_DOC}" ></DataGridTextColumn >
+                <DataGridTextColumn  Width="80" Visibility="Visible" Header="Fecha vencimiento" IsReadOnly="True" Binding="{Binding Path=FECHA_VENC_DOC}" ></DataGridTextColumn >
+                <DataGridTextColumn  Width="140" Visibility="Visible" Header="Monto moneda origen" IsReadOnly="True" Binding="{Binding Path=MONTO_DOC_MO}" ></DataGridTextColumn >
+                <DataGridTextColumn  Width="80" Header="Monto moneda local" Visibility="Visible" IsReadOnly="True" Binding="{Binding Path=MONTO_DOC_ML}" ></DataGridTextColumn >
+                <!--<DataGridTextColumn  Width="80" Header="Icono" Visibility="Collapsed" IsReadOnly="True" Binding="{Binding Path=ICONO}" ></DataGridTextColumn>--> 
+                <!--<DataGridTextColumn  Width="120" Header="Fecha doc." IsReadOnly="True" Binding="{Binding Path=FECHA_DOC}" ></DataGridTextColumn >
+                <DataGridTextColumn  Width="120" Header="Fecha vencimiento" IsReadOnly="True" Binding="{Binding Path=FECVENCI}" ></DataGridTextColumn >-->
+                <!--<DataGridTextColumn  Width="80" Header="Días atraso" Visibility="Collapsed" IsReadOnly="True" Binding="{Binding Path=DIAS_ATRASO}" ></DataGridTextColumn >
+                <DataGridTextColumn  Width="80" Header="Moneda" Visibility="Collapsed" IsReadOnly="True" Binding="{Binding Path=MONEDA}" ></DataGridTextColumn>--> 
+                <!--<DataGridTextColumn  Width="120" Header="Monto a pagar" IsReadOnly="True" Binding="{Binding Path=MONTOF_PAGAR}"  >
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="TextAlignment" Value="Right" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn >-->
+                <!--<DataGridTextColumn  Width="120" Header="Monto a abonar"  Visibility="Collapsed" IsReadOnly="True" Binding="{Binding Path=MONTOF_ABON}" >
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="TextAlignment" Value="Right" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn >-->
+                <!--<DataGridTextColumn  Width="120" Header="Monto" Visibility="Collapsed" IsReadOnly="True" Binding="{Binding Path=MONTOF}" >
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="TextAlignment" Value="Right" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn >
+                <DataGridTextColumn  Width="80" Header="Clase documento" Visibility="Collapsed" IsReadOnly="True" Binding="{Binding Path=CLASE_DOC}" ></DataGridTextColumn >
+                <DataGridTextColumn  Width="80" Header="Clase cuenta" Visibility="Collapsed" IsReadOnly="True" Binding="{Binding Path=CLASE_CUENTA}" ></DataGridTextColumn >
+                <DataGridTextColumn  Width="80" Header="CMEo" Visibility="Collapsed" IsReadOnly="True" Binding="{Binding Path=CME}" ></DataGridTextColumn >
+                <DataGridTextColumn  Width="80" Header="ACC" Visibility="Collapsed" IsReadOnly="True" Binding="{Binding Path=ACC}" ></DataGridTextColumn >
+                <DataGridTextColumn  Width="140" Header="Condición de pago" Visibility="Collapsed" IsReadOnly="True" Binding="{Binding Path=COND_PAGO}" ></DataGridTextColumn >-->
+                <!--<DataGridTextColumn  Width="80" Header="N° documento" IsReadOnly="True" Binding="{Binding Path=ACC}" ></DataGridTextColumn >-->
+
+
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <DataGrid AutoGenerateColumns="False" Height="101" HorizontalAlignment="Left" Margin="5,330,0,0" Name="DGResumenViasPago" VerticalAlignment="Top" Width="764" ScrollViewer.CanContentScroll="True" ScrollViewer.HorizontalScrollBarVisibility="Visible" ScrollViewer.VerticalScrollBarVisibility="Visible"   AlternatingRowBackground="LightSalmon"  >
+            <DataGrid.Columns>
+                <!--<DataGridTextColumn  Width="120" Header="Cantidad de documentos" IsReadOnly="True" Binding="{Binding Path=CantDocs}" ></DataGridTextColumn >
+                <DataGridTextColumn  Width="120" Header="Medio de pago" IsReadOnly="True" Binding="{Binding Path=FormaPago}" ></DataGridTextColumn >-->
+                <DataGridTextColumn  Width="80" Header="Posición" Visibility="Visible" IsReadOnly="True" Binding="{Binding Path=NUM_POS}" ></DataGridTextColumn >
+                <DataGridTextColumn  Width="100" Header="Descripción vía de pago" Visibility="Visible" IsReadOnly="True" Binding="{Binding Path=DESCRIP_VP}" ></DataGridTextColumn >
+                <DataGridTextColumn  Width="120" Header="Número de documento" IsReadOnly="True" Binding="{Binding Path=NUM_VP}" ></DataGridTextColumn >
+                <DataGridTextColumn  Width="120" Header="Fecha" IsReadOnly="True" Binding="{Binding Path=FECHA_EMISION}" ></DataGridTextColumn >
+                <DataGridTextColumn  Width="140" Header="Fecha vencimiento" IsReadOnly="True" Binding="{Binding Path=FECHA_VENC}" ></DataGridTextColumn >
+                <DataGridTextColumn  Width="80" Header="Monto moneda origen" IsReadOnly="True" Binding="{Binding Path=MONTO_MO}" ></DataGridTextColumn >
+                <DataGridTextColumn  Width="80" Header="Monto moneda local" IsReadOnly="True" Binding="{Binding Path=MONTO_ML}" ></DataGridTextColumn >
+                <!--<DataGridTextColumn  Width="80" Header="RUT girador" Visibility="Collapsed" IsReadOnly="True" Binding="{Binding Path=RUTGirador}" ></DataGridTextColumn >
+                <DataGridTextColumn  Width="80" Header="Intervalo de días" Visibility="Collapsed" IsReadOnly="True" Binding="{Binding Path=Intervalo}" ></DataGridTextColumn >
+                <DataGridTextColumn  Width="80" Header="Patente" Visibility="Collapsed" IsReadOnly="True" Binding="{Binding Path=Patente}" ></DataGridTextColumn >-->
+            </DataGrid.Columns>
+
+        </DataGrid>
+        <Button Content="Imprimir" Height="23" HorizontalAlignment="Left" Margin="572,435,0,0" Name="button1" VerticalAlignment="Top" Width="75" Click="button1_Click" />
+        <Label Content="Hora" Height="20" HorizontalAlignment="Left" Margin="517,57,0,0" Name="label1" VerticalAlignment="Top" Width="80" FontSize="10" FontFamily="Arial" />
+        <Label Content="Fecha:" Height="20" HorizontalAlignment="Left" Margin="517,34,0,0" Name="label2" VerticalAlignment="Top" Width="80" FontSize="10" FontFamily="Arial" />
+        <Label Content="Página:" Height="20" HorizontalAlignment="Left" Margin="517,12,0,0" Name="label3" VerticalAlignment="Top" Width="80" FontSize="10" FontFamily="Arial" />
+        <Label Content="Usuario" Height="20" HorizontalAlignment="Left" Margin="517,80,0,0" Name="label4" VerticalAlignment="Top" Width="80" FontSize="10" FontFamily="Arial" />
+        <Label Content="Ingreso:" Height="20" HorizontalAlignment="Left" Margin="517,103,0,0" Name="label5" VerticalAlignment="Top" Width="80" FontSize="10" FontFamily="Arial" />
+        <Label Content="Ingreso a la caja:" Height="25" HorizontalAlignment="Left" Margin="0,98,0,0" Name="label6" VerticalAlignment="Top" Width="135" FontWeight="SemiBold" FontFamily="Arial" FontSize="15" />
+        <Label Content="Cajero:" Height="25" HorizontalAlignment="Left" Margin="286,98,0,0" Name="label7" VerticalAlignment="Top" Width="62" FontWeight="SemiBold" FontFamily="Arial" FontSize="15" />
+        <Label Content="Nota de venta:" Height="20" HorizontalAlignment="Left" Margin="517,126,0,0" Name="label8" VerticalAlignment="Top" Width="80" FontSize="10" FontFamily="Arial" />
+        <TextBox Height="20" HorizontalAlignment="Left" Margin="607,12,0,0" Name="txtPagina" VerticalAlignment="Top" Width="106" FontSize="10" FontFamily="Arial" />
+        <TextBox Height="20" HorizontalAlignment="Left" Margin="607,34,0,0" Name="txtFecha" VerticalAlignment="Top" Width="106" FontSize="10" FontFamily="Arial" />
+        <TextBox Height="20" HorizontalAlignment="Left" Margin="607,57,0,0" Name="txtHora" VerticalAlignment="Top" Width="106" FontSize="10" FontFamily="Arial" />
+        <TextBox Height="20" HorizontalAlignment="Left" Margin="607,80,0,0" Name="txtUsuario" VerticalAlignment="Top" Width="106" FontSize="10" FontFamily="Arial" />
+        <TextBox Height="20" HorizontalAlignment="Left" Margin="607,103,0,0" Name="txtIngreso" VerticalAlignment="Top" Width="106" FontSize="10" FontFamily="Arial" />
+        <TextBox Height="20" HorizontalAlignment="Left" Margin="607,126,0,0" Name="txtNotaVta" VerticalAlignment="Top" Width="106" FontSize="10" FontFamily="Arial" />
+        <TextBox Height="25" HorizontalAlignment="Left" Margin="141,98,0,0" Name="txtNomCaja" VerticalAlignment="Top" Width="106" FontWeight="SemiBold" FontFamily="Arial" FontSize="15" />
+        <TextBox Height="25" HorizontalAlignment="Left" Margin="346,98,0,0" Name="txtCajero" VerticalAlignment="Top" Width="165" FontWeight="SemiBold" FontFamily="Arial" FontSize="15" />
+        <TextBox Text="Indumotora One S.A." Height="25" HorizontalAlignment="Left" Margin="16,6,0,0" Name="txtEmpresa" VerticalAlignment="Top" Width="180" FontWeight="SemiBold" FontFamily="Arial" FontSize="15" />
+        <TextBox Text="79567420-9" Height="25" HorizontalAlignment="Left" Margin="15,35,0,0" Name="txtRIF" VerticalAlignment="Top" Width="180" FontWeight="SemiBold" FontFamily="Arial" FontSize="15" />
+        <TextBox FontFamily="Arial" FontSize="15"  Height="25" HorizontalAlignment="Left" Margin="47,139,0,0" Name="txtRUT" VerticalAlignment="Top" Width="106" />
+        <TextBox FontFamily="Arial" FontSize="15"  Height="25" HorizontalAlignment="Left" Margin="215,139,0,0" Name="txtNomCli" VerticalAlignment="Top" Width="165" />
+        <Label Content="Documento al cual afecta" Height="28" HorizontalAlignment="Left" Margin="8,304,0,0" Name="label11" VerticalAlignment="Top" Width="236" FontFamily="Arial" FontSize="12" FontWeight="SemiBold" VerticalContentAlignment="Center" />
+        <Label Content="Documentos a cancelar" FontFamily="Arial" FontSize="12" FontWeight="SemiBold" Height="28" HorizontalAlignment="Left" Margin="9,162,0,0" Name="label12" VerticalAlignment="Top" VerticalContentAlignment="Center" Width="236" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="179,65,0,0" Name="txtDirect" Visibility="Collapsed" VerticalAlignment="Top" Width="144" />
+        <TextBox FontFamily="Arial" FontSize="15" FontWeight="SemiBold" Height="25" HorizontalAlignment="Left" Margin="15,64,0,0" Name="txtSociedad" Text="EI15" VerticalAlignment="Top" Width="180"  />
+        <TextBox FontFamily="Arial" FontSize="10" Height="20" HorizontalAlignment="Left" Margin="607,149,0,0" Name="txtNumDocCont" VerticalAlignment="Top" Width="106" />
+        <Label Content="N° Doc. Contable" FontFamily="Arial" FontSize="10" Height="20" HorizontalAlignment="Right" Margin="0,149,221,0" Name="label9" VerticalAlignment="Top" Width="80" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="403,141,0,0" Name="txtInOut" Visibility="Collapsed" VerticalAlignment="Top" Width="85" />
+        <TextBox Height="26" HorizontalAlignment="Left" Margin="336,22,0,0" Name="txtMoneda" Visibility="Collapsed" VerticalAlignment="Top" Width="121" />
+        <TextBox FontFamily="Arial" FontSize="10" Height="20" HorizontalAlignment="Left" Margin="607,170,0,0" Name="txtPedido" VerticalAlignment="Top" Width="106" />
+        <Label Content="N° Pedido" FontFamily="Arial" FontSize="10" Height="20" HorizontalAlignment="Left" Margin="517,170,0,0" Name="label10" VerticalAlignment="Top" Width="80" />
+        <TextBox FontFamily="Arial" FontSize="10" Height="20" HorizontalAlignment="Left" Margin="261,7,0,0" Name="txtMandante" VerticalAlignment="Top" Width="106" />
+    </Grid>
+</Window>

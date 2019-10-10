@@ -1,0 +1,582 @@
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\bin\Debug\CajaIndu.exe.config
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\bin\Debug\CajaIndu.exe.manifest
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\bin\Debug\CajaIndu.application
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\bin\Debug\CajaIndu.exe
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\bin\Debug\CajaIndu.pdb
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\bin\Debug\itextsharp.dll
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\bin\Debug\itextsharp.pdfa.dll
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\bin\Debug\rscp4n.dll
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\bin\Debug\sapnco.dll
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\bin\Debug\sapnco_utils.dll
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\bin\Debug\itextsharp.xml
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\Autorizacion.baml
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\Comprobante.baml
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\DetalleDocumentos.baml
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\Login.baml
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\PagosDocumentos.baml
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\PDFViewer.baml
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\PopupLogin.baml
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\Prueba.baml
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\ResumenViasPago.baml
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\Autorizacion.g.cs
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\Comprobante.g.cs
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\DetalleDocumentos.g.cs
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\Login.g.cs
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\PagosDocumentos.g.cs
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\PDFViewer.g.cs
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\PopupLogin.g.cs
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\Prueba.g.cs
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\ResumenViasPago.g.cs
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\App.g.cs
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu_MarkupCompile.cache
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu.g.resources
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu.Properties.Resources.resources
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu.csproj.GenerateResource.Cache
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu.TrustInfo.xml
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu.exe.manifest
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu.application
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu.exe
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu.pdb
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu.csprojResolveAssemblyReference.cache
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\bin\Debug\CajaIndu.exe.config
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\bin\Debug\CajaIndu.exe.manifest
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\bin\Debug\CajaIndu.application
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\bin\Debug\CajaIndu.exe
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\bin\Debug\CajaIndu.pdb
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\bin\Debug\rscp4n.dll
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\bin\Debug\sapnco.dll
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\bin\Debug\sapnco_utils.dll
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\Autorizacion.baml
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\Comprobante.baml
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\DetalleDocumentos.baml
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\Login.baml
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\PagosDocumentos.baml
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\PDFViewer.baml
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\PopupLogin.baml
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\Prueba.baml
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\ResumenViasPago.baml
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\Autorizacion.g.cs
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\Comprobante.g.cs
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\DetalleDocumentos.g.cs
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\Login.g.cs
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\PagosDocumentos.g.cs
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\PDFViewer.g.cs
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\PopupLogin.g.cs
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\Prueba.g.cs
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\ResumenViasPago.g.cs
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\App.g.cs
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu_MarkupCompile.cache
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu.g.resources
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu.Properties.Resources.resources
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu.csproj.GenerateResource.Cache
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu.TrustInfo.xml
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu.exe.manifest
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu.application
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu.exe
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu.pdb
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\bin\Debug\CajaIndu.exe.config
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\bin\Debug\CajaIndu.exe.manifest
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\bin\Debug\CajaIndu.application
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\bin\Debug\CajaIndu.exe
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\bin\Debug\CajaIndu.pdb
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\obj\x86\Debug\Autorizacion.baml
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\obj\x86\Debug\Comprobante.baml
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\obj\x86\Debug\DetalleDocumentos.baml
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\obj\x86\Debug\Login.baml
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\obj\x86\Debug\PagosDocumentos.baml
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\obj\x86\Debug\PDFViewer.baml
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\obj\x86\Debug\PopupLogin.baml
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\obj\x86\Debug\Prueba.baml
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\obj\x86\Debug\ResumenViasPago.baml
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\obj\x86\Debug\Autorizacion.g.cs
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\obj\x86\Debug\Comprobante.g.cs
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\obj\x86\Debug\DetalleDocumentos.g.cs
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\obj\x86\Debug\Login.g.cs
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\obj\x86\Debug\PagosDocumentos.g.cs
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\obj\x86\Debug\PDFViewer.g.cs
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\obj\x86\Debug\PopupLogin.g.cs
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\obj\x86\Debug\Prueba.g.cs
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\obj\x86\Debug\ResumenViasPago.g.cs
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\obj\x86\Debug\App.g.cs
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\obj\x86\Debug\CajaIndu_MarkupCompile.cache
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\obj\x86\Debug\CajaIndu.g.resources
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\obj\x86\Debug\CajaIndu.Properties.Resources.resources
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\obj\x86\Debug\CajaIndu.csproj.GenerateResource.Cache
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\obj\x86\Debug\CajaIndu.TrustInfo.xml
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\obj\x86\Debug\CajaIndu.exe.manifest
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\obj\x86\Debug\CajaIndu.application
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\obj\x86\Debug\CajaIndu.exe
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\obj\x86\Debug\CajaIndu.pdb
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\bin\Debug\rscp4n.dll
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\bin\Debug\sapnco.dll
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\bin\Debug\sapnco_utils.dll
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\obj\x86\Debug\CajaIndu.csprojResolveAssemblyReference.cache
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Autorizacion.baml
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Comprobante.baml
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\DetalleDocumentos.baml
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Anulacion\Anulacion.baml
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\CierreCaja\CierreCaja.baml
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\Login.baml
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Menu\MenuCaja.baml
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\PDFViewer.baml
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\PopupLogin.baml
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\ResumenViasPago.baml
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\NotaCredito\NotaCredito.baml
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\PagoDocumento\PagoDocumento.baml
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Reimpresion\Reimpresion.baml
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Vehiculos\Vehiculo.baml
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Autorizacion.g.cs
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Comprobante.g.cs
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\DetalleDocumentos.g.cs
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Anulacion\Anulacion.g.cs
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\CierreCaja\CierreCaja.g.cs
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\Login.g.cs
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Menu\MenuCaja.g.cs
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\PDFViewer.g.cs
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\PopupLogin.g.cs
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\ResumenViasPago.g.cs
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\NotaCredito\NotaCredito.g.cs
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\PagoDocumento\PagoDocumento.g.cs
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Reimpresion\Reimpresion.g.cs
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Vehiculos\Vehiculo.g.cs
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\App.g.cs
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu_MarkupCompile.cache
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.g.resources
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.Properties.Resources.resources
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.csproj.GenerateResource.Cache
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndu.exe.config
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndu.exe.manifest
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndu.application
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndu.exe
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndu.pdb
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\bin\Debug\rscp4n.dll
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\bin\Debug\sapnco.dll
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\bin\Debug\sapnco_utils.dll
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.TrustInfo.xml
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.exe.manifest
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.application
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.exe
+C:\Users\Consultor\Desktop\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.pdb
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndu.exe.config
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.exe
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.pdb
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.csprojResolveAssemblyReference.cache
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Autorizacion.baml
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Comprobante.baml
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\DetalleDocumentos.baml
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Anulacion\Anulacion.baml
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\CierreCaja\CierreCaja.baml
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\Login.baml
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Menu\MenuCaja.baml
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\PDFViewer.baml
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\PopupLogin.baml
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\ResumenViasPago.baml
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\NotaCredito\NotaCredito.baml
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\PagoDocumento\PagoDocumento.baml
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Reimpresion\Reimpresion.baml
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Reportes\Reportes.baml
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Vehiculos\Vehiculo.baml
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Autorizacion.g.cs
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Comprobante.g.cs
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\DetalleDocumentos.g.cs
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Anulacion\Anulacion.g.cs
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\CierreCaja\CierreCaja.g.cs
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\Login.g.cs
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Menu\MenuCaja.g.cs
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\PDFViewer.g.cs
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\PopupLogin.g.cs
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\ResumenViasPago.g.cs
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\NotaCredito\NotaCredito.g.cs
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\PagoDocumento\PagoDocumento.g.cs
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Reimpresion\Reimpresion.g.cs
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Reportes\Reportes.g.cs
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Vehiculos\Vehiculo.g.cs
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\App.g.cs
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu_MarkupCompile.cache
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.g.resources
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.Properties.Resources.resources
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.csproj.GenerateResource.Cache
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndu.exe.manifest
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndu.application
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndu.exe
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndu.pdb
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\rscp4n.dll
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\sapnco.dll
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\sapnco_utils.dll
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.TrustInfo.xml
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.exe.manifest
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.application
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Pruebas.baml
+K:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Pruebas.g.cs
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Autorizacion.baml
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Comprobante.baml
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\DetalleDocumentos.baml
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Pruebas.baml
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Anulacion\Anulacion.baml
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\CierreCaja\CierreCaja.baml
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\Login.baml
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Menu\MenuCaja.baml
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\PDFViewer.baml
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\PopupLogin.baml
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\ResumenViasPago.baml
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\NotaCredito\NotaCredito.baml
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\PagoDocumento\PagoDocumento.baml
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Reimpresion\Reimpresion.baml
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Reportes\Reportes.baml
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Vehiculos\Vehiculo.baml
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Autorizacion.g.cs
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Comprobante.g.cs
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\DetalleDocumentos.g.cs
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Pruebas.g.cs
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Anulacion\Anulacion.g.cs
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\CierreCaja\CierreCaja.g.cs
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\Login.g.cs
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Menu\MenuCaja.g.cs
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\PDFViewer.g.cs
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\PopupLogin.g.cs
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\ResumenViasPago.g.cs
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\NotaCredito\NotaCredito.g.cs
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\PagoDocumento\PagoDocumento.g.cs
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Reimpresion\Reimpresion.g.cs
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Reportes\Reportes.g.cs
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Vehiculos\Vehiculo.g.cs
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\App.g.cs
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu_MarkupCompile.cache
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.g.resources
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.Properties.Resources.resources
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.csproj.GenerateResource.Cache
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndu.exe.config
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndu.exe.manifest
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndu.application
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndu.exe
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndu.pdb
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\rscp4n.dll
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\sapnco.dll
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\sapnco_utils.dll
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.csprojResolveAssemblyReference.cache
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.TrustInfo.xml
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.exe.manifest
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.application
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.exe
+G:\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.pdb
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndu.exe.config
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.exe
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.pdb
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndu.exe.manifest
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndu.application
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndu.exe
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndu.pdb
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\rscp4n.dll
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\sapnco.dll
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\sapnco_utils.dll
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.csprojResolveAssemblyReference.cache
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Autorizacion.baml
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Comprobante.baml
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\DetalleDocumentos.baml
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Pruebas.baml
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Anulacion\Anulacion.baml
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\CierreCaja\CierreCaja.baml
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\Login.baml
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Menu\MenuCaja.baml
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\PDFViewer.baml
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\PopupLogin.baml
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\ResumenViasPago.baml
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\NotaCredito\NotaCredito.baml
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\PagoDocumento\PagoDocumento.baml
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Reimpresion\Reimpresion.baml
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Reportes\Reportes.baml
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Vehiculos\Vehiculo.baml
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Autorizacion.g.cs
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Comprobante.g.cs
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\DetalleDocumentos.g.cs
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Pruebas.g.cs
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Anulacion\Anulacion.g.cs
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\CierreCaja\CierreCaja.g.cs
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\Login.g.cs
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Menu\MenuCaja.g.cs
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\PDFViewer.g.cs
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\PopupLogin.g.cs
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\ResumenViasPago.g.cs
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\NotaCredito\NotaCredito.g.cs
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\PagoDocumento\PagoDocumento.g.cs
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Reimpresion\Reimpresion.g.cs
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Reportes\Reportes.g.cs
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Vehiculos\Vehiculo.g.cs
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\App.g.cs
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu_MarkupCompile.cache
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.g.resources
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.Properties.Resources.resources
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.csproj.GenerateResource.Cache
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.TrustInfo.xml
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.exe.manifest
+C:\Users\Consultor\Dropbox\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.application
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndu.exe.config
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.exe
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.pdb
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.csprojResolveAssemblyReference.cache
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Autorizacion.baml
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Comprobante.baml
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\DetalleDocumentos.baml
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Pruebas.baml
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Anulacion\Anulacion.baml
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\CierreCaja\CierreCaja.baml
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\Login.baml
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Menu\MenuCaja.baml
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\PDFViewer.baml
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\PopupLogin.baml
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\ResumenViasPago.baml
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\NotaCredito\NotaCredito.baml
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\PagoDocumento\PagoDocumento.baml
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Reimpresion\Reimpresion.baml
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Reportes\Reportes.baml
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Vehiculos\Vehiculo.baml
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Autorizacion.g.cs
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Comprobante.g.cs
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\DetalleDocumentos.g.cs
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Pruebas.g.cs
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Anulacion\Anulacion.g.cs
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\CierreCaja\CierreCaja.g.cs
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\Login.g.cs
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Menu\MenuCaja.g.cs
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\PDFViewer.g.cs
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\PopupLogin.g.cs
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\ResumenViasPago.g.cs
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\NotaCredito\NotaCredito.g.cs
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\PagoDocumento\PagoDocumento.g.cs
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Reimpresion\Reimpresion.g.cs
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Reportes\Reportes.g.cs
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Vehiculos\Vehiculo.g.cs
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\App.g.cs
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu_MarkupCompile.cache
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.g.resources
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.Properties.Resources.resources
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.csproj.GenerateResource.Cache
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndu.exe.manifest
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndu.application
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndu.exe
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndu.pdb
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\rscp4n.dll
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\sapnco.dll
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\sapnco_utils.dll
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.TrustInfo.xml
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.exe.manifest
+C:\Users\JMBPC\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.application
+C:\Users\JMB\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndu.exe.config
+C:\Users\JMB\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.exe
+C:\Users\JMB\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.pdb
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndu.exe.config
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndu.exe.manifest
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndu.application
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndu.exe
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndu.pdb
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\itextsharp.dll
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\rscp4n.dll
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\sapnco.dll
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\bin\Debug\sapnco_utils.dll
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Autorizacion.baml
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Comprobante.baml
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\DetalleDocumentos.baml
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Pruebas.baml
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Anulacion\Anulacion.baml
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\CierreCaja\CierreCaja.baml
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\Login.baml
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Menu\MenuCaja.baml
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\PDFViewer.baml
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\PopupLogin.baml
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\ResumenViasPago.baml
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\NotaCredito\NotaCredito.baml
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\PagoDocumento\PagoDocumento.baml
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Reimpresion\Reimpresion.baml
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Reportes\Reportes.baml
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Vehiculos\Vehiculo.baml
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Autorizacion.g.cs
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Comprobante.g.cs
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\DetalleDocumentos.g.cs
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Pruebas.g.cs
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Anulacion\Anulacion.g.cs
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\CierreCaja\CierreCaja.g.cs
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\Login.g.cs
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Menu\MenuCaja.g.cs
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\PDFViewer.g.cs
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\PopupLogin.g.cs
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\ResumenViasPago.g.cs
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\NotaCredito\NotaCredito.g.cs
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\PagoDocumento\PagoDocumento.g.cs
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Reimpresion\Reimpresion.g.cs
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Reportes\Reportes.g.cs
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Vehiculos\Vehiculo.g.cs
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\App.g.cs
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu_MarkupCompile.cache
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.g.resources
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.Properties.Resources.resources
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.csproj.GenerateResource.Cache
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.TrustInfo.xml
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.exe.manifest
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.application
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.exe
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.pdb
+C:\Users\Consultor\Dropbox\seidor\Indumotora Desarrollos\Fuentes de Caja\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.csprojFakesResolveAssemblyReference.cache
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndigo.exe.config
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Autorizacion.baml
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Comprobante.baml
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\DetalleDocumentos.baml
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Pruebas.baml
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Anulacion\Anulacion.baml
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\CierreCaja\CierreCaja.baml
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\Login.baml
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Menu\MenuCaja.baml
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\PDFViewer.baml
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\PopupLogin.baml
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\ResumenViasPago.baml
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\NotaCredito\NotaCredito.baml
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\PagoDocumento\PagoDocumento.baml
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Reimpresion\Reimpresion.baml
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Reportes\Reportes.baml
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Vehiculos\Vehiculo.baml
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Autorizacion.g.cs
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Comprobante.g.cs
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\DetalleDocumentos.g.cs
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Pruebas.g.cs
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Anulacion\Anulacion.g.cs
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\CierreCaja\CierreCaja.g.cs
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\Login.g.cs
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Menu\MenuCaja.g.cs
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\PDFViewer.g.cs
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\PopupLogin.g.cs
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\ResumenViasPago.g.cs
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\NotaCredito\NotaCredito.g.cs
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\PagoDocumento\PagoDocumento.g.cs
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Reimpresion\Reimpresion.g.cs
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Reportes\Reportes.g.cs
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Vehiculos\Vehiculo.g.cs
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\App.g.cs
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndigo_MarkupCompile.cache
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndigo.g.resources
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndigo.Properties.Resources.resources
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.csproj.GenerateResource.Cache
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndigo.exe.manifest
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndigo.application
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndigo.exe
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndigo.pdb
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\itextsharp.dll
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\rscp4n.dll
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\sapnco.dll
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\sapnco_utils.dll
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndigo.TrustInfo.xml
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndigo.exe.manifest
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndigo.application
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndigo.exe
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndigo.pdb
+C:\Users\Consultor\Desktop\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.csprojFakesResolveAssemblyReference.cache
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Autorizacion.baml
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Comprobante.baml
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\DetalleDocumentos.baml
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Pruebas.baml
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Anulacion\Anulacion.baml
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\CierreCaja\CierreCaja.baml
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\Login.baml
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Menu\MenuCaja.baml
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\PDFViewer.baml
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\PopupLogin.baml
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\ResumenViasPago.baml
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\NotaCredito\NotaCredito.baml
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\PagoDocumento\PagoDocumento.baml
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Reimpresion\Reimpresion.baml
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Reportes\Reportes.baml
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Vehiculos\Vehiculo.baml
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Autorizacion.g.cs
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Comprobante.g.cs
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\DetalleDocumentos.g.cs
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Pruebas.g.cs
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Anulacion\Anulacion.g.cs
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\CierreCaja\CierreCaja.g.cs
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\Login.g.cs
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Menu\MenuCaja.g.cs
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\PDFViewer.g.cs
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\PopupLogin.g.cs
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\ResumenViasPago.g.cs
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\NotaCredito\NotaCredito.g.cs
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\PagoDocumento\PagoDocumento.g.cs
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Reimpresion\Reimpresion.g.cs
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Reportes\Reportes.g.cs
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Vehiculos\Vehiculo.g.cs
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\App.g.cs
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndigo_MarkupCompile.cache
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndigo.g.resources
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndigo.Properties.Resources.resources
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.csproj.GenerateResource.Cache
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndigo.TrustInfo.xml
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndigo.exe
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndigo.pdb
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndigo.exe.config
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndigo.exe.manifest
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndigo.application
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndigo.exe
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndigo.pdb
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\itextsharp.dll
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\rscp4n.dll
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\sapnco.dll
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\sapnco_utils.dll
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndigo.exe.manifest
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndigo.application
+C:\Users\Consultor\Desktop\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.csprojFakesResolveAssemblyReference.cache
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Autorizacion.baml
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Comprobante.baml
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\DetalleDocumentos.baml
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Pruebas.baml
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Anulacion\Anulacion.baml
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\CierreCaja\CierreCaja.baml
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\Login.baml
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Menu\MenuCaja.baml
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\PDFViewer.baml
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\PopupLogin.baml
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\ResumenViasPago.baml
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\NotaCredito\NotaCredito.baml
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\PagoDocumento\PagoDocumento.baml
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Reimpresion\Reimpresion.baml
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Reportes\Reportes.baml
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Vehiculos\Vehiculo.baml
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Autorizacion.g.cs
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Comprobante.g.cs
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\DetalleDocumentos.g.cs
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Pruebas.g.cs
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Anulacion\Anulacion.g.cs
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\CierreCaja\CierreCaja.g.cs
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\Login.g.cs
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Menu\MenuCaja.g.cs
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\PDFViewer.g.cs
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\PopupLogin.g.cs
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\ResumenViasPago.g.cs
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\NotaCredito\NotaCredito.g.cs
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\PagoDocumento\PagoDocumento.g.cs
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Reimpresion\Reimpresion.g.cs
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Reportes\Reportes.g.cs
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Vehiculos\Vehiculo.g.cs
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\App.g.cs
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu_MarkupCompile.cache
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.g.resources
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.Properties.Resources.resources
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.csproj.GenerateResource.Cache
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndu.exe.config
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndu.exe.manifest
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndu.application
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndu.exe
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndu.pdb
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\itextsharp.dll
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\rscp4n.dll
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\sapnco.dll
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\sapnco_utils.dll
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.TrustInfo.xml
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.exe.manifest
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.application
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.exe
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.pdb
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndu.csprojFakesResolveAssemblyReference.cache

@@ -1,0 +1,49 @@
+﻿<Window x:Class="CajaIndigo.DetalleDocumentos"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Detalle documento" Height="327" Width="755" Background="#FFDFECF5"  IsManipulationEnabled="False"  ResizeMode="NoResize" >
+    <Grid>
+        <Label Content="N° documento" Height="22" HorizontalAlignment="Left" Margin="12,18,0,0" Name="label1" VerticalAlignment="Top" Width="90" FontFamily="Arial" FontSize="10" />
+        <TextBox Name="txtNDoc" IsReadOnly="True" FontFamily="Arial" FontSize="10" Margin="108,18,0,0" Height="22" BorderBrush="Orange" HorizontalAlignment="Left" Width="95" VerticalAlignment="Top" />
+        <Label Content="N° referencia" Height="22" HorizontalAlignment="Left" Margin="214,18,0,0" Name="label2" VerticalAlignment="Top" Width="100" FontFamily="Arial" FontSize="10" />
+        <TextBox Name="txtNRef" IsReadOnly="True" FontFamily="Arial" Height="22" FontSize="10" Margin="319,18,324,248" Width="90" BorderBrush="Orange" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        <Label Content="Estado" FontFamily="Arial" FontSize="10" Height="22" HorizontalAlignment="Left" Margin="414,18,0,0" Name="label8" VerticalAlignment="Top" Width="85" />
+        <TextBox FontFamily="Arial" FontSize="10" Height="22" IsReadOnly="True" Margin="505,18,128,248" Name="txtEstado" Width="100" BorderBrush="Orange" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        <Label Content="RUT" Height="22" HorizontalAlignment="Left" Margin="12,44,0,0" Name="label3" VerticalAlignment="Top" Width="90" FontFamily="Arial" FontSize="10" />
+        <TextBox Name="txtRUT" IsReadOnly="True" FontFamily="Arial" FontSize="10" Margin="108,44,0,0" Height="22" BorderBrush="Orange" HorizontalAlignment="Left" Width="95" VerticalAlignment="Top" />
+        <Label Content="Código cliente" Height="22" HorizontalAlignment="Left" Margin="214,44,0,0" Name="label4" VerticalAlignment="Top" Width="100" FontFamily="Arial" FontSize="10" />
+        <TextBox Name="txtCodCliente" IsReadOnly="True" FontFamily="Arial" FontSize="10" Margin="320,44,0,0" Width="90" Height="22" VerticalAlignment="Top" BorderBrush="Orange" HorizontalAlignment="Left" />
+        <Label Content="Nombre cliente" Height="22" HorizontalAlignment="Left" Margin="414,44,0,0" Name="label5" VerticalAlignment="Top" Width="85" FontFamily="Arial" FontSize="10" />
+        <TextBox Name="txtNomcliente" IsReadOnly="True" FontFamily="Arial" FontSize="10" Margin="505,44,31,222" Height="22" BorderBrush="Orange" HorizontalAlignment="Left" Width="150" VerticalAlignment="Top" />
+        <Label Content="Control crédito" FontFamily="Arial" FontSize="10" Height="22" HorizontalAlignment="Left" Margin="13,70,0,0" Name="label6" VerticalAlignment="Top" Width="90" />
+        <TextBox  Width="95" Name="txtCtrlCred" IsReadOnly="True" Height="22" FontFamily="Arial" FontSize="10" Margin="108,70,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" BorderBrush="Orange" />
+        <Label Content="Centro de beneficio" FontFamily="Arial" FontSize="10" Height="22" HorizontalAlignment="Left" Margin="214,71,0,0" Name="label7" VerticalAlignment="Top" Width="100" />
+        <TextBox Name="txtCeBe" IsReadOnly="True" FontFamily="Arial" FontSize="10" Margin="320,70,323,196" Width="90" Height="22" BorderBrush="Orange" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        <Label Content="Sociedad" FontFamily="Arial" FontSize="10" Height="22" HorizontalAlignment="Left" Margin="414,70,0,0" Name="label9" VerticalAlignment="Top" Width="85" />
+        <TextBox  Width="100" Name="txtSociedad" IsReadOnly="True" Height="22" FontFamily="Arial" FontSize="10" Margin="505,70,128,196" BorderBrush="Orange" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        <Label Content="Fecha documento" FontFamily="Arial" FontSize="10" Height="22" HorizontalAlignment="Left" Margin="12,97,0,0" Name="label10" VerticalAlignment="Top" Width="90" />
+        <TextBox Name="txtFechaDoc" IsReadOnly="True" FontFamily="Arial" FontSize="10" Margin="108,97,0,0" Height="22" BorderBrush="Orange" HorizontalAlignment="Left" Width="95" VerticalAlignment="Top" />
+        <Label Content="Fecha vencimiento" FontFamily="Arial" FontSize="10" Height="22" HorizontalAlignment="Left" Margin="215,97,0,0" Name="label11" VerticalAlignment="Top" Width="100" />
+        <TextBox Name="txtFechaVen" IsReadOnly="True" FontFamily="Arial" FontSize="10" Margin="320,97,0,169" Width="90" Height="22" HorizontalAlignment="Left" BorderBrush="Orange" VerticalAlignment="Top" />
+        <Label Content="Días de atraso" FontFamily="Arial" FontSize="10" Height="22" HorizontalAlignment="Left" Margin="414,97,0,0" Name="label12" VerticalAlignment="Top" Width="85" />
+        <TextBox  Width="100" Name="txtDiasAtraso" IsReadOnly="True" Height="22" FontFamily="Arial" FontSize="10" Margin="505,97,128,169" BorderBrush="Orange" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        <Label Content="Moneda" FontFamily="Arial" FontSize="10" Height="22" HorizontalAlignment="Left" Margin="12,123,0,0" Name="label13" VerticalAlignment="Top" Width="90" />
+        <TextBox Name="txtMoneda" IsReadOnly="True" FontFamily="Arial" FontSize="10" Margin="108,123,0,0" Height="22" BorderBrush="Orange" HorizontalAlignment="Left" Width="95" VerticalAlignment="Top" />
+        <Label Content="Clase documento" FontFamily="Arial" FontSize="10" Height="22" HorizontalAlignment="Left" Margin="215,123,0,0" Name="label17" VerticalAlignment="Top" Width="100" />
+        <TextBox Name="txtClaseDoc" IsReadOnly="True" Margin="320,123,323,143" FontFamily="Arial" FontSize="10" Width="90" Height="22" BorderBrush="Orange" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        <Label Content="Clase cuenta" FontFamily="Arial" FontSize="10" Height="22" HorizontalAlignment="Left" Margin="414,123,0,0" Name="label18" VerticalAlignment="Top" Width="85" />
+        <TextBox Name="txtClaseCta" IsReadOnly="True" Margin="505,123,128,143" Height="22" FontFamily="Arial" FontSize="10" Width="100" BorderBrush="Orange" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        <Label Content="CME" FontFamily="Arial" FontSize="10" Height="22" HorizontalAlignment="Left" Margin="214,150,0,0" Name="label21" VerticalAlignment="Top" Width="100" />
+        <TextBox Name="txtCME" IsReadOnly="True" Margin="320,150,0,116" Height="22" FontFamily="Arial" FontSize="10" Width="90" HorizontalAlignment="Left" BorderBrush="Orange" VerticalAlignment="Top" />
+        <Label Content="ACC" FontFamily="Arial" FontSize="10" Height="22" HorizontalAlignment="Left" Margin="12,150,0,0" Name="label19" VerticalAlignment="Top" Width="90" />
+        <TextBox  Width="95" Name="txtACC" IsReadOnly="True" Margin="108,150,0,0" FontFamily="Arial" FontSize="10" HorizontalAlignment="Left" Height="22" VerticalAlignment="Top" BorderBrush="Orange" />
+        <Label Content="Cond. de pago" FontFamily="Arial" FontSize="10" Height="22" HorizontalAlignment="Left" Margin="414,150,0,0" Name="label20" VerticalAlignment="Top" Width="85" />
+        <TextBox  Width="140" Height="22" Name="txtCondPago" IsReadOnly="True" Visibility="Visible" Margin="505,150,88,116" FontSize="10" FontFamily="Arial" BorderBrush="Orange" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        <Label Content="Monto pagado" Height="22" HorizontalAlignment="Left" Margin="355,184,0,0" Name="label14" VerticalAlignment="Top" Width="106" FontSize="10" FontFamily="Arial" />
+        <Label Content="Monto a pagar" Height="22" HorizontalAlignment="Left" Margin="355,211,0,0" Name="label15" VerticalAlignment="Top" Width="106" FontSize="10" FontFamily="Arial" />
+        <Label Content="Monto" Height="22" HorizontalAlignment="Left" Margin="355,239,0,0" Name="label16" VerticalAlignment="Top" Width="106" FontSize="10" FontFamily="Arial" />
+        <TextBox  Width="120" Name="txtMontoPag" IsReadOnly="True" Height="22" FontFamily="Arial" FontSize="10" Margin="466,183,147,83" HorizontalContentAlignment="Right" BorderBrush="Orange" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        <TextBox  Width="120" Name="txtMontoAbon" IsReadOnly="True" Height="22" FontFamily="Arial" FontSize="10" Margin="466,211,0,55" HorizontalAlignment="Left" HorizontalContentAlignment="Right" BorderBrush="Orange" VerticalAlignment="Top" />
+        <TextBox  Width="120" Name="txtMonto" IsReadOnly="True" Height="22" FontFamily="Arial" FontSize="10" Margin="466,239,147,27" HorizontalContentAlignment="Right" BorderBrush="Orange" HorizontalAlignment="Left" VerticalAlignment="Top" />
+       </Grid>
+</Window>

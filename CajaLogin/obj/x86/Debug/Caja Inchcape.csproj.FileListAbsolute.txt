@@ -1,0 +1,107 @@
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\itextsharp.dll
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\rscp4n.dll
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\sapnco.dll
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\sapnco_utils.dll
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Autorizacion.baml
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Comprobante.baml
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\DetalleDocumentos.baml
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Pruebas.baml
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Anulacion\Anulacion.baml
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\CierreCaja\CierreCaja.baml
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\Login.baml
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Menu\MenuCaja.baml
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\PDFViewer.baml
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\PopupLogin.baml
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\ResumenViasPago.baml
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\NotaCredito\NotaCredito.baml
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\PagoDocumento\PagoDocumento.baml
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Reimpresion\Reimpresion.baml
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Reportes\Reportes.baml
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Vehiculos\Vehiculo.baml
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Autorizacion.g.cs
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Comprobante.g.cs
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\DetalleDocumentos.g.cs
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Pruebas.g.cs
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Anulacion\Anulacion.g.cs
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\CierreCaja\CierreCaja.g.cs
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\Login.g.cs
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Menu\MenuCaja.g.cs
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\PDFViewer.g.cs
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\PopupLogin.g.cs
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\ResumenViasPago.g.cs
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\NotaCredito\NotaCredito.g.cs
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\PagoDocumento\PagoDocumento.g.cs
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Reimpresion\Reimpresion.g.cs
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Reportes\Reportes.g.cs
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Vehiculos\Vehiculo.g.cs
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\App.g.cs
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Caja Inchcape.csproj.GenerateResource.Cache
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndigo.exe.config
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndigo_MarkupCompile.cache
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndigo.g.resources
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndigo.Properties.Resources.resources
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndigo.exe.manifest
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndigo.application
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndigo.exe
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndigo.pdb
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndigo.TrustInfo.xml
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndigo.exe.manifest
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndigo.application
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndigo.exe
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndigo.pdb
+C:\Users\Consultor\Desktop\InchcapeV2\Desarrollos Indigo\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Caja Inchcape.csprojFakesResolveAssemblyReference.cache
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Caja Inchcape.csprojResolveAssemblyReference.cache
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Autorizacion.baml
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Comprobante.baml
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\DetalleDocumentos.baml
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Pruebas.baml
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Anulacion\Anulacion.baml
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\CierreCaja\CierreCaja.baml
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\Login.baml
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Menu\MenuCaja.baml
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\PDFViewer.baml
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\PopupLogin.baml
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\ResumenViasPago.baml
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\NotaCredito\NotaCredito.baml
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\PagoDocumento\PagoDocumento.baml
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Reimpresion\Reimpresion.baml
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Reportes\Reportes.baml
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Vehiculos\Vehiculo.baml
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Autorizacion.g.cs
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Comprobante.g.cs
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\DetalleDocumentos.g.cs
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Pruebas.g.cs
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Anulacion\Anulacion.g.cs
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\CierreCaja\CierreCaja.g.cs
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\Login.g.cs
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Menu\MenuCaja.g.cs
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\PDFViewer.g.cs
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Login\PopupLogin.g.cs
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\ResumenViasPago.g.cs
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\NotaCredito\NotaCredito.g.cs
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\PagoDocumento\PagoDocumento.g.cs
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Reimpresion\Reimpresion.g.cs
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Reportes\Reportes.g.cs
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Vista\Vehiculos\Vehiculo.g.cs
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\App.g.cs
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndigo_MarkupCompile.cache
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndigo.g.resources
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndigo.Properties.Resources.resources
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\Caja Inchcape.csproj.GenerateResource.Cache
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndigo.exe
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndigo.pdb
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndigo.exe.config
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndigo.exe.manifest
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndigo.application
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndigo.exe
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\CajaIndigo.pdb
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\itextsharp.dll
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\rscp4n.dll
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\sapnco.dll
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\bin\Debug\sapnco_utils.dll
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndigo.TrustInfo.xml
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndigo.exe.manifest
+C:\Users\Consultor\Desktop\Ultimos Fuentes Inchcape 2017\Fuentes de Caja Indigo\CAJA INDU MODULAR\CajaLogin\obj\x86\Debug\CajaIndigo.application

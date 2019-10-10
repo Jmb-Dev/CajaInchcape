@@ -1,0 +1,32 @@
+﻿<Window x:Class="CajaIndu.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="BIENVENIDO" Height="430" Width="525" Name="CajaLogin" Closing="CajaLogin_Closing" Closed="CajaLogin_Closed" Loaded="CajaLogin_Loaded">
+    <Grid Height="378" Width="503">
+        <Button   Content="Acceder al sistema" Height="22" HorizontalAlignment="Left" Margin="98,84,0,0" Name="button1" VerticalAlignment="Top" Width="157" Click="button1_Click" IsDefault="True" />
+        <Label Content="Clave de acceso" HorizontalAlignment="Left" Margin="12,40,0,0" Name="label4" Height="20" FontSize="10" Width="120" VerticalAlignment="Top" FontFamily="Arial" VerticalContentAlignment="Center" />
+        <Image Margin="310,117,12,177" Name="image1" Stretch="Fill" Source="/CajaIndu;component/Images/iso_indumotora-01.jpg"/>
+        <TextBox Height="20" HorizontalAlignment="Left" Margin="180,15,0,0" Name="textUser" VerticalAlignment="Top" Width="120" TextChanged="textUser_TextChanged" />
+        <Label Content="Identificación de usuario" Height="20" HorizontalAlignment="Left" Margin="12,15,0,0" Name="label1" Target="{Binding}" ClipToBounds="False" FontSize="10" Width="120" VerticalAlignment="Top" FontFamily="Arial" VerticalContentAlignment="Center" />
+        <PasswordBox Height="20" HorizontalAlignment="Left" Margin="180,40,0,0" Name="passwordBox" VerticalAlignment="Top" Width="120" />
+        <CheckBox Content="Acceder como usuario temporal" Height="19" HorizontalAlignment="Left" Margin="24,65,0,0" Name="checkBox1" VerticalAlignment="Top" Width="212" />
+        <Label Height="48" HorizontalAlignment="Left" Margin="12,276,0,0" Name="label2" VerticalAlignment="Top" Width="479" FontFamily="Arial" Foreground="Red" />
+        <Grid Height="182" HorizontalAlignment="Left" Margin="16,119,0,0" Name="GDConfigSAP" VerticalAlignment="Top" Width="288" Visibility="Collapsed">
+            <Label Content="Id Sistema" Height="25" HorizontalAlignment="Left" Margin="8,4,0,0" Name="label3" VerticalAlignment="Top" Width="99" FontFamily="Arial" FontSize="11" />
+            <TextBox Height="25" HorizontalAlignment="Right" Margin="0,4,23,0" Name="txtIdSistema" Text="INP" VerticalAlignment="Top" Width="129" FontFamily="Arial" FontSize="11" />
+            <Label Content="Instancia" Height="25" HorizontalAlignment="Left" Margin="8,32,0,0" Name="label5" VerticalAlignment="Top" Width="99" FontFamily="Arial" FontSize="11" />
+            <TextBox Height="25" HorizontalAlignment="Right" Margin="0,32,23,0" Name="txtInstancia" Text="01"  VerticalAlignment="Top" Width="129" FontFamily="Arial" FontSize="11" />
+            <Label Content="Mandante" Height="25" HorizontalAlignment="Left" Margin="8,60,0,0" Name="label6" VerticalAlignment="Top" Width="99" FontFamily="Arial" FontSize="11" />
+            <TextBox Height="25" HorizontalAlignment="Right" Margin="0,60,23,0" Name="txtMandante" Text="300" VerticalAlignment="Top" Width="129" FontFamily="Arial" FontSize="11" />
+            <Label Content="SAP router" Height="25" HorizontalAlignment="Left" Margin="8,88,0,0" Name="label7" VerticalAlignment="Top" Width="99" FontFamily="Arial" FontSize="11" />
+            <TextBox Height="25" HorizontalAlignment="Right" Margin="0,88,23,0" Name="txtSapRouter" Text="" VerticalAlignment="Top" Width="129" FontFamily="Arial" FontSize="11" />
+            <Label Content="Server" Height="25" HorizontalAlignment="Left" Margin="8,116,0,0" Name="label8" VerticalAlignment="Top" Width="99" FontFamily="Arial" FontSize="11" />
+            <TextBox Height="25" HorizontalAlignment="Right" Margin="0,116,23,0" Name="txtServer" Text="10.9.100.156" VerticalAlignment="Top" Width="129" FontFamily="Arial" FontSize="11" />
+            <Label Content="Idioma" FontFamily="Arial" FontSize="11" Height="25" HorizontalAlignment="Left" Margin="8,144,0,0" Name="label9" VerticalAlignment="Top" Width="99" />
+            <TextBox FontFamily="Arial" FontSize="11" Height="25" HorizontalAlignment="Right" Margin="0,144,23,0" Name="txtIdioma" Text="ES" VerticalAlignment="Top" Width="129" />
+        </Grid>
+        <Button Content="Configuración" Height="17" HorizontalAlignment="Left" Margin="24,330,0,0" Name="btnConfig" VerticalAlignment="Top" Width="108" FontFamily="Arial" FontSize="10" Click="btnConfig_Click" />
+        <TextBox Text=" Version: {0}.{1}.{2}.{3};" Height="30" HorizontalAlignment="Left" Margin="279,224,0,0" Name="label10" VerticalAlignment="Top" Width="224" />
+        <Label Content=" " Height="23" HorizontalAlignment="Center" Margin="263,298,12,0" Name="lblVersion" VerticalAlignment="Top" Width="228" FontFamily="Arial" FontSize="14" FontWeight="SemiBold" VerticalContentAlignment="Center" />
+    </Grid>
+</Window>

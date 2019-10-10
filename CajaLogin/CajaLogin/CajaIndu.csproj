@@ -1,0 +1,605 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B433C3DB-1D54-480C-B811-D6CE89ACF989}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CajaIndu</RootNamespace>
+    <AssemblyName>CajaIndu</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <PublishUrl>C:\CajaPos Publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <InstallUrl>http://sap-pos-prd.ad.gi.cl:8080/CajaPostPRD/</InstallUrl>
+    <UpdateUrl>http://sap-pos-prd.ad.gi.cl:8080/CajaPostPRD/</UpdateUrl>
+    <PublisherName>Caja Indumotora2015</PublisherName>
+    <MinimumRequiredVersion>1.0.0.16</MinimumRequiredVersion>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>publish.htm</WebPage>
+    <ApplicationRevision>180</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>7ADEE343286AF1FFE0C2553E7488E299FD8D4FFC</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>CajaLogin_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <TargetZone>Custom</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>indu.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp">
+      <HintPath>..\..\..\..\..\..\Downloads\itextsharp-all-5.5.1\itextsharp-dll-core\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.pdfa">
+      <HintPath>..\..\..\..\..\..\Downloads\itextsharp-all-5.5.1\itextsharp-dll-pdfa\itextsharp.pdfa.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="rscp4n, Version=1.0.4521.9222, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Resources\rscp4n.dll</HintPath>
+    </Reference>
+    <Reference Include="sapnco, Version=3.0.0.42, Culture=neutral, PublicKeyToken=50436dca5c7f7d23, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\sapnco.dll</HintPath>
+    </Reference>
+    <Reference Include="sapnco_utils, Version=3.0.0.42, Culture=neutral, PublicKeyToken=50436dca5c7f7d23, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\sapnco_utils.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="AppPersistencia\Class\Anticipos\Anticipos.cs" />
+    <Compile Include="AppPersistencia\Class\AnulacionComprobantes\AnulacionComprobantes.cs" />
+    <Compile Include="AppPersistencia\Class\AperturaCaja\AperturaCaja.cs" />
+    <Compile Include="AppPersistencia\Class\AperturaCaja\Estructura\APER_CAJA.cs" />
+    <Compile Include="AppPersistencia\Class\ArqueoCaja\ArqueoCaja.cs" />
+    <Compile Include="AppPersistencia\Class\ArqueoCaja\Estructura\DETALLE_ARQUEO.cs" />
+    <Compile Include="AppPersistencia\Class\AutorizadorAnulaciones\AutorizaAnulaciones.cs" />
+    <Compile Include="AppPersistencia\Class\AutorizadorAnulaciones\Estructura\ESTADO.cs" />
+    <Compile Include="AppPersistencia\Class\BloquearCaja\BloquearCaja.cs" />
+    <Compile Include="AppPersistencia\Class\BusquedaAnulacion\BusquedaAnulacion.cs" />
+    <Compile Include="AppPersistencia\Class\BusquedaAnulacion\Estructura\CAB_COMP.cs" />
+    <Compile Include="AppPersistencia\Class\BusquedaAnulacion\Estructura\DET_COMP.cs" />
+    <Compile Include="AppPersistencia\Class\BusquedaAnulacion\Estructura\RETORNO.cs" />
+    <Compile Include="AppPersistencia\Class\BusquedaReimpresiones\BusquedaReimpresiones.cs" />
+    <Compile Include="AppPersistencia\Class\BusquedaReimpresiones\Estructura\DOCUMENTOS.cs" />
+    <Compile Include="AppPersistencia\Class\BusquedaReimpresiones\Estructura\VIAS_PAGO2.cs" />
+    <Compile Include="AppPersistencia\Class\CheckUserAnulacion\CheckUserAnulacion.cs" />
+    <Compile Include="AppPersistencia\Class\CierreCajaDefinitvo\CierreCajaDefinitivo.cs" />
+    <Compile Include="AppPersistencia\Class\CierreCajaDefinitvo\Estructura\DET_EFECTIVO.cs" />
+    <Compile Include="AppPersistencia\Class\CierreCaja\CierreCaja.cs" />
+    <Compile Include="AppPersistencia\Class\CierreCaja\Estructura\CERR_CAJA.cs" />
+    <Compile Include="AppPersistencia\Class\CierreCaja\Estructura\ESTATUS.cs" />
+    <Compile Include="AppPersistencia\Class\Connections\ConexSAP.cs" />
+    <Compile Include="AppPersistencia\Class\DepositoProceso\DepositoProceso.cs" />
+    <Compile Include="AppPersistencia\Class\DepositoProceso\Estructura\RETORNO.cs" />
+    <Compile Include="AppPersistencia\Class\GestionDeDepositos\Estructura\BCO_DEPOSITOS.cs" />
+    <Compile Include="AppPersistencia\Class\GestionDeDepositos\Estructura\BCO_DESTINO.cs" />
+    <Compile Include="AppPersistencia\Class\GestionDeDepositos\Estructura\RETORNO.cs" />
+    <Compile Include="AppPersistencia\Class\GestionDeDepositos\Estructura\VIAS_PAGOGD.cs" />
+    <Compile Include="AppPersistencia\Class\GestionDeDepositos\GestionDeDepositos.cs" />
+    <Compile Include="AppPersistencia\Class\Login\Estructura\USR_CAJA.cs" />
+    <Compile Include="AppPersistencia\Class\Login\LoginSAP.cs" />
+    <Compile Include="AppPersistencia\Class\MaestroDeBancos\Estructura\BANCOS_PROPIOS.cs" />
+    <Compile Include="AppPersistencia\Class\MaestroDeBancos\Estructura\LISTABANCOS.cs" />
+    <Compile Include="AppPersistencia\Class\MaestroDeBancos\MaestroBancos.cs" />
+    <Compile Include="AppPersistencia\Class\MaestroFinancieras\Estructura\LIST_CARTA.cs" />
+    <Compile Include="AppPersistencia\Class\MaestroFinancieras\MaestroFinancieras.cs" />
+    <Compile Include="AppPersistencia\Class\MaestroTarjetas\Estructura\LISTATARJETAS.cs" />
+    <Compile Include="AppPersistencia\Class\MaestroTarjetas\MaestroTarjetas.cs" />
+    <Compile Include="AppPersistencia\Class\MatrizDePago\Estructura\VIAS_PAGO.cs" />
+    <Compile Include="AppPersistencia\Class\MatrizDePago\MatrizDePago.cs" />
+    <Compile Include="AppPersistencia\Class\Monitor\Estructura\GET_MONITOR.cs" />
+    <Compile Include="AppPersistencia\Class\Monitor\Monitor.cs" />
+    <Compile Include="AppPersistencia\Class\NotasDeCreditoCheck\Estructura\DET_EFECT.cs" />
+    <Compile Include="AppPersistencia\Class\NotasDeCreditoCheck\Estructura\DOCUMENTOS2.cs" />
+    <Compile Include="AppPersistencia\Class\NotasDeCreditoCheck\Estructura\RETURN2.cs" />
+    <Compile Include="AppPersistencia\Class\NotasDeCreditoCheck\Estructura\VIAS_PAGO.cs" />
+    <Compile Include="AppPersistencia\Class\NotasDeCreditoCheck\NotasDeCreditoCheck.cs" />
+    <Compile Include="AppPersistencia\Class\NotasDeCreditoEmision\NotasDeCreditoEmision.cs" />
+    <Compile Include="AppPersistencia\Class\NotasDeCredito\Estructura\T_DOCUMENTOS.cs" />
+    <Compile Include="AppPersistencia\Class\NotasDeCredito\NotasDeCredito.cs" />
+    <Compile Include="AppPersistencia\Class\PagoAnticipos\Estructura\RETORNO.cs" />
+    <Compile Include="AppPersistencia\Class\PagoAnticipos\PagoAnticipos.cs" />
+    <Compile Include="AppPersistencia\Class\PagoDocumentosIngreso\Estructura\E_AUGBL.cs" />
+    <Compile Include="AppPersistencia\Class\PagoDocumentosIngreso\Estructura\E_ID_MSJ.cs" />
+    <Compile Include="AppPersistencia\Class\PagosMasivosNew\PagosMasivosNew.cs" />
+    <Compile Include="AppPersistencia\Class\PagosMasivos\Estructura\T_GET_DOC.cs" />
+    <Compile Include="AppPersistencia\Class\PagosMasivos\Estructura\PAGOS_MASIVOS.cs" />
+    <Compile Include="AppPersistencia\Class\PagosMasivos\DocumentosPagosMasivos.cs" />
+    <Compile Include="AppPersistencia\Class\PartidasAbiertas\Estructura\T_DOCUMENTOS.cs" />
+    <Compile Include="AppPersistencia\Class\PartidasAbiertas\PartidasAbiertas.cs" />
+    <Compile Include="AppPersistencia\Class\PreCierreCaja\Estructura\CAB_ARQUEO.cs" />
+    <Compile Include="AppPersistencia\Class\PreCierreCaja\Estructura\DET_ARQUEO.cs" />
+    <Compile Include="AppPersistencia\Class\PreCierreCaja\Estructura\RETORNO.cs" />
+    <Compile Include="AppPersistencia\Class\PreCierreCaja\PrecierreCaja.cs" />
+    <Compile Include="AppPersistencia\Class\RecaudacionVehiculos\Estructura\ACT_FPAGOS.cs" />
+    <Compile Include="AppPersistencia\Class\RecaudacionVehiculos\Estructura\DOCUMENTO_CAB.cs" />
+    <Compile Include="AppPersistencia\Class\RecaudacionVehiculos\Estructura\IT_PAGOS.cs" />
+    <Compile Include="AppPersistencia\Class\RecaudacionVehiculos\Estructura\IT_PAGOS_CAB.cs" />
+    <Compile Include="AppPersistencia\Class\RecaudacionVehiculos\Estructura\RETORNO.cs" />
+    <Compile Include="AppPersistencia\Class\RecaudacionVehiculos\Estructura\RETORNO_PAGODOCU.cs" />
+    <Compile Include="AppPersistencia\Class\RecaudacionVehiculos\Estructura\RETURN.cs" />
+    <Compile Include="AppPersistencia\Class\RecaudacionVehiculos\Estructura\VIAS_PAGO_VEHI.cs" />
+    <Compile Include="AppPersistencia\Class\RecaudacionVehiculos\Recaudacion_vehi.cs" />
+    <Compile Include="AppPersistencia\Class\ReimpresionComprobantes\Estructura\DATOS_CAJA.cs" />
+    <Compile Include="AppPersistencia\Class\ReimpresionComprobantes\Estructura\DATOS_CLIENTES.cs" />
+    <Compile Include="AppPersistencia\Class\ReimpresionComprobantes\Estructura\DATOS_DOCUMENTOS.cs" />
+    <Compile Include="AppPersistencia\Class\ReimpresionComprobantes\Estructura\DATOS_VP.cs" />
+    <Compile Include="AppPersistencia\Class\ReimpresionComprobantes\Estructura\INFO_SOC.cs" />
+    <Compile Include="AppPersistencia\Class\ReimpresionComprobantes\Estructura\VIAS_PAGO.cs" />
+    <Compile Include="AppPersistencia\Class\ReimpresionComprobantes\ReimpresionComprobantes.cs" />
+    <Compile Include="AppPersistencia\Class\ReimpresionFiscal\Estructura\DTE_SII.cs" />
+    <Compile Include="AppPersistencia\Class\ReimpresionFiscal\ReimpresionFiscal.cs" />
+    <Compile Include="AppPersistencia\Class\RendicionCaja\Estructura\DETALLE_REND.cs" />
+    <Compile Include="AppPersistencia\Class\RendicionCaja\Estructura\DETALLE_VP.cs" />
+    <Compile Include="AppPersistencia\Class\RendicionCaja\Estructura\INFO_SOCI.cs" />
+    <Compile Include="AppPersistencia\Class\RendicionCaja\Estructura\RESUMEN_VP.cs" />
+    <Compile Include="AppPersistencia\Class\RendicionCaja\RendicionCaja.cs" />
+    <Compile Include="AppPersistencia\Class\ReportesCaja\Estructura\RENDICION_CAJA.cs" />
+    <Compile Include="AppPersistencia\Class\ReportesCaja\Estructura\RESUMEN_CAJA.cs" />
+    <Compile Include="AppPersistencia\Class\ReportesCaja\Estructura\RESUMEN_MENSUAL.cs" />
+    <Compile Include="AppPersistencia\Class\ReportesCaja\ReportesCaja.cs" />
+    <Compile Include="AppPersistencia\Class\StatusPagosChq\EstatusCobranza.cs" />
+    <Compile Include="AppPersistencia\Class\StatusPagosChq\Estructura\PE_PROTESTADO.cs" />
+    <Compile Include="AppPersistencia\Class\StatusPagosChq\Estructura\SE_ESTATUS.cs" />
+    <Compile Include="AppPersistencia\Class\PagoDocumentosIngreso\Estructura\E_MSJ.cs" />
+    <Compile Include="AppPersistencia\Class\PagoDocumentosIngreso\PagoDocumentosIngreso.cs" />
+    <Compile Include="AppPersistencia\Class\UsuariosCaja\Estructura\LOG_APERTURA.cs" />
+    <Compile Include="AppPersistencia\Class\UsuariosCaja\Estructura\USR_CAJA.cs" />
+    <Compile Include="AppPersistencia\Class\UsuariosCaja\UsuariosCaja.cs" />
+    <Compile Include="Autorizacion.xaml.cs">
+      <DependentUpon>Autorizacion.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Comprobante.xaml.cs">
+      <DependentUpon>Comprobante.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="DetalleDocumentos.xaml.cs">
+      <DependentUpon>DetalleDocumentos.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="LogCajaIndu.cs" />
+    <Compile Include="MediosDePagoActualización.cs" />
+    <Compile Include="MontoMediosDePago.cs" />
+    <Compile Include="PagosDocumentos.xaml.cs">
+      <DependentUpon>PagosDocumentos.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PDFPageNumber.cs" />
+    <Compile Include="PDFViewer.xaml.cs">
+      <DependentUpon>PDFViewer.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Prueba.xaml.cs">
+      <DependentUpon>Prueba.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ResumenViasPago.xaml.cs">
+      <DependentUpon>ResumenViasPago.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Validaciones.cs" />
+    <Page Include="Autorizacion.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Comprobante.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="DetalleDocumentos.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Login.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Login.xaml.cs">
+      <DependentUpon>Login.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="PagosDocumentos.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PDFViewer.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PopupLogin.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Prueba.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ResumenViasPago.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="PopupLogin.xaml.cs">
+      <DependentUpon>PopupLogin.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AppPersistencia\Class\RecaudacionVehiculos\Estructura\app.config" />
+    <None Include="CajaLogin_TemporaryKey.pfx" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.IDestinationConfiguration.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.IRfcAbapObject.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.IRfcAttribute.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.IRfcClientPassportHandler.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.IRfcDataContainer.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.IRfcElement.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.IRfcField.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.IRfcFunction.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.IRfcParameter.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.IRfcServerPassportHandler.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.IRfcStructure.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.IRfcStructureView.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.IRfcTable.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.IRfcTableView.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.IServerConfiguration.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.IServerSecurityHandler.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.ISessionProvider.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.ISupportTableView.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.ITransactionIDHandler.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.IUnitIDHandler.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.NCo3WmiProvider.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.NCo3WmiProviderInstaller.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcAbapBackgroundRfcException.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcAbapBaseException.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcAbapClassException+Mode.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcAbapClassException.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcAbapClassicException.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcAbapException.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcAbapExceptionMetadata.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcAbapMessageException.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcAbapObjectMetadata.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcAbapRuntimeException.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcAttributeMetadata.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcBackgroundUnit.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcBaseException.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcCallStatistics.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcCodepageConversionException.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcCommunicationCanceledException.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcCommunicationException.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcConfigParameters+EventType.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcConfigParameters+RfcSncQOP.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcConfigParameters+RfcUseSAPGui.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcConfigParameters.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcConfigurationEventArgs.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcConnectionData+ConnectionStates.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcConnectionData.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcConnectionMonitor.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcCustomDestination.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcCustomRepository.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcDestination+PasswordChangeHandler.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcDestination.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcDestinationManager+ConfigurationChangeHandler.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcDestinationManager.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcDestinationMonitor.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcElementMetadata.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcFieldMetadata.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcFunctionMetadata.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcFunctionNotFoundException.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcInvalidCodepageException.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcInvalidParameterException.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcInvalidServerFunctionException.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcInvalidStateException.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcLogonException.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcLookupError.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcLookupErrorList.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcParameterMetadata.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcPassport+EppActionType.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcPassport+EppComponentType.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcPassport+EppTraceFlag.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcPassport+EppValueType.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcPassport+EppVersion.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcPassport+VarPartItem.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcPassport.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcPassportException.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcPassportManager.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcRemoteContext.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcRepository.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcResourceException.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcSecurityData.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcSerializationException+RfcComponent.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcSerializationException.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcServer.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcServerApplicationException.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcServerAuthenticationException.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcServerAuthorizationException.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcServerContext.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcServerContextInfo.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcServerErrorEventArgs.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcServerErrorEventHandler.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcServerFunction.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcServerFunctionAttribute.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcServerManager+ConfigurationChangeHandler.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcServerManager.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcServerMonitor.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcServerStateChangedEventArgs.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcServerStateChangedEventHandler.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcSessionEventArgs.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcSessionManager+EventType.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcSessionManager+SessionChangeHandler.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcSessionManager.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcStructureMetadata.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcSystemAttributes.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcTableFilterHandler.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcTableMetadata.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcTID.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcTrace.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcTransaction.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcTypeConversionException.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcUnitAttributes.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcUnitID.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcUnsupportedPartnerException.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.RfcWebSessionProvider.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.SAPConnectorInfo.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.WmiRfcConnection.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.WmiRfcDestination.datasource" />
+    <None Include="Properties\DataSources\SAP.Middleware.Connector.WmiRfcServer.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\libicudecnumber.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rscp4n.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Empresas Indumotora cuadrado.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Empresas Indumotora frame.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\indumotora  Inicio.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\cancelar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\pencil-icon-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancelar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pencil-icon-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UpdateSoftware02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16278993-update-icon-glossy-orange-button.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1400791756_10514.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\UpdateSoftware02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\16278993-update-icon-glossy-orange-button.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\1400791756_10514.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Empresas Indumotora frame1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="AppPersistencia\Class\Anticipos\Estructura\" />
+    <Folder Include="AppPersistencia\Class\AnulacionComprobantes\Estructura\" />
+    <Folder Include="AppPersistencia\Class\NotasDeCreditoEmision\Estructura\" />
+    <Folder Include="AppPersistencia\Class\PagosMasivosNew\Estructura\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="CajaIndu.pdb">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Auto</PublishState>
+      <IncludeHash>False</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camiones y buses_sociedad EI17.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\barra contacto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo empresas indumotora_sociedad EI15.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SociedadEI17.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SociedadEI15.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\telefono camiones y buses.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\logoEI17.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logos one.png.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\logo-camiones.jpg" />
+    <Resource Include="Images\logo-indumotora one.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\huincha completa camiones y buses.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HUINCHAC-2801.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\huincha completa camiones y buses.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="indu.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\indu.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\iso_indumotora-01.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

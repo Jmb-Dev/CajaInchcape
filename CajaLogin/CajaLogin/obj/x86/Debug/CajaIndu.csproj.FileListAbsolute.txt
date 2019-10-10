@@ -1,0 +1,101 @@
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\bin\Debug\CajaIndu.exe.config
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\bin\Debug\CajaIndu.exe.manifest
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\bin\Debug\CajaIndu.application
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\bin\Debug\CajaIndu.exe
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\bin\Debug\CajaIndu.pdb
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\bin\Debug\itextsharp.dll
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\bin\Debug\itextsharp.pdfa.dll
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\bin\Debug\rscp4n.dll
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\bin\Debug\sapnco.dll
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\bin\Debug\sapnco_utils.dll
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\bin\Debug\itextsharp.xml
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\Autorizacion.baml
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\Comprobante.baml
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\DetalleDocumentos.baml
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\Login.baml
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\PagosDocumentos.baml
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\PDFViewer.baml
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\PopupLogin.baml
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\Prueba.baml
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\ResumenViasPago.baml
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\Autorizacion.g.cs
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\Comprobante.g.cs
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\DetalleDocumentos.g.cs
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\Login.g.cs
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\PagosDocumentos.g.cs
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\PDFViewer.g.cs
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\PopupLogin.g.cs
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\Prueba.g.cs
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\ResumenViasPago.g.cs
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\App.g.cs
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu_MarkupCompile.cache
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu.g.resources
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu.Properties.Resources.resources
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu.csproj.GenerateResource.Cache
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu.TrustInfo.xml
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu.exe.manifest
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu.application
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu.exe
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu.pdb
+C:\Users\RafaelGuillermo\Documents\Visual Studio 2010\Projects\CajaLogin\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu.csprojResolveAssemblyReference.cache
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\bin\Debug\CajaIndu.exe.config
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\bin\Debug\CajaIndu.exe.manifest
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\bin\Debug\CajaIndu.application
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\bin\Debug\CajaIndu.exe
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\bin\Debug\CajaIndu.pdb
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\bin\Debug\rscp4n.dll
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\bin\Debug\sapnco.dll
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\bin\Debug\sapnco_utils.dll
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\Autorizacion.baml
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\Comprobante.baml
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\DetalleDocumentos.baml
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\Login.baml
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\PagosDocumentos.baml
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\PDFViewer.baml
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\PopupLogin.baml
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\Prueba.baml
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\ResumenViasPago.baml
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\Autorizacion.g.cs
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\Comprobante.g.cs
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\DetalleDocumentos.g.cs
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\Login.g.cs
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\PagosDocumentos.g.cs
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\PDFViewer.g.cs
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\PopupLogin.g.cs
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\Prueba.g.cs
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\ResumenViasPago.g.cs
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\App.g.cs
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu_MarkupCompile.cache
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu.g.resources
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu.Properties.Resources.resources
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu.csproj.GenerateResource.Cache
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu.TrustInfo.xml
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu.exe.manifest
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu.application
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu.exe
+C:\CajaLogin 16122014\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu.pdb
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu.csprojResolveAssemblyReference.cache
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\CajaLogin\obj\x86\Debug\Autorizacion.baml
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\CajaLogin\obj\x86\Debug\Comprobante.baml
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\CajaLogin\obj\x86\Debug\DetalleDocumentos.baml
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\CajaLogin\obj\x86\Debug\Login.baml
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\CajaLogin\obj\x86\Debug\PagosDocumentos.baml
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\CajaLogin\obj\x86\Debug\PDFViewer.baml
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\CajaLogin\obj\x86\Debug\PopupLogin.baml
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\CajaLogin\obj\x86\Debug\Prueba.baml
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\CajaLogin\obj\x86\Debug\ResumenViasPago.baml
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\CajaLogin\obj\x86\Debug\Autorizacion.g.cs
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\CajaLogin\obj\x86\Debug\Comprobante.g.cs
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\CajaLogin\obj\x86\Debug\DetalleDocumentos.g.cs
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\CajaLogin\obj\x86\Debug\Login.g.cs
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\CajaLogin\obj\x86\Debug\PagosDocumentos.g.cs
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\CajaLogin\obj\x86\Debug\PDFViewer.g.cs
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\CajaLogin\obj\x86\Debug\PopupLogin.g.cs
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\CajaLogin\obj\x86\Debug\Prueba.g.cs
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\CajaLogin\obj\x86\Debug\ResumenViasPago.g.cs
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\CajaLogin\obj\x86\Debug\App.g.cs
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu_MarkupCompile.cache
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu.g.resources
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu.Properties.Resources.resources
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\CajaLogin\obj\x86\Debug\CajaIndu.csproj.GenerateResource.Cache
+C:\Users\Consultor\Desktop\Caja Modificada\CajaLogin\CajaLogin\bin\Debug\CajaIndu.exe.config
