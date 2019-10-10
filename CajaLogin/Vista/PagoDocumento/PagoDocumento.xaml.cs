@@ -7729,7 +7729,7 @@ namespace CajaIndigo.Vista.PagoDocumento
         private void txtNumDoc_TextChanged(object sender, TextChangedEventArgs e)
         {
             //Prueba
-            bool digit = true;
+            bool digit = false;
             foreach (char value in txtNumDoc.Text)
             {
                 digit = char.IsDigit(value);
