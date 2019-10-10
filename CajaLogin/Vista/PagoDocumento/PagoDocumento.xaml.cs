@@ -7728,6 +7728,7 @@ namespace CajaIndigo.Vista.PagoDocumento
 
         private void txtNumDoc_TextChanged(object sender, TextChangedEventArgs e)
         {
+            //Prueba
             bool digit = true;
             foreach (char value in txtNumDoc.Text)
             {
